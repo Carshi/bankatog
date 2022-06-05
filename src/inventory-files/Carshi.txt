@@ -13,7 +13,7 @@ Wrist	Bracelet of Cessation	12804	1	5
 Range	Empty	0	0	0
 Hands	ShadowBound Gloves	3318	1	5
 Primary	Empty	0	0	0
-Secondary	Empty	0	0	0
+Secondary	A Crude Stein	13355	1	5
 Fingers	Velium Fire Wedding Ring	30339	1	5
 Fingers	Ring of the Frost Spiders	2685	1	5
 Chest	Robe of the Oracle	1354	1	5
@@ -22,14 +22,14 @@ Feet	ShadowBound Boots	3317	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
 General1	Medicine Bag	17901	1	8
-General1-Slot1	Ivory	22504	1	5
-General1-Slot2	Steel Torque	2039	1	5
-General1-Slot3	Steel Torque	2039	1	5
-General1-Slot4	Fine Steel Rapier	7352	1	5
-General1-Slot5	Topaz	10025	1	5
+General1-Slot1	Ice Giant Toes	16540	1	5
+General1-Slot2	Ice Giant Toes	16540	1	5
+General1-Slot3	Ice Giant Toes	16540	1	5
+General1-Slot4	Ice Giant Toes	16540	1	5
+General1-Slot5	Ice Giant Toes	16540	1	5
 General1-Slot6	Ice Giant Toes	16540	1	5
-General1-Slot7	Empty	0	0	0
-General1-Slot8	Empty	0	0	0
+General1-Slot7	Ice Giant Toes	16540	1	5
+General1-Slot8	Ice Giant Toes	16540	1	5
 General2	Medicine Bag	17901	1	8
 General2-Slot1	Bone Chips	13073	8	5
 General2-Slot2	Bone Chips	13073	20	5
@@ -40,22 +40,22 @@ General2-Slot6	Bone Chips	13073	16	5
 General2-Slot7	Bone Chips	13073	20	5
 General2-Slot8	Bone Chips	13073	20	5
 General3	Glowing Backpack	17306	1	10
-General3-Slot1	Empty	0	0	0
+General3-Slot1	Ice Giant Toes	16540	1	5
 General3-Slot2	Summoned: Muzzle of Mardu	1348	1	5
-General3-Slot3	Empty	0	0	0
+General3-Slot3	Ice Giant Toes	16540	1	5
 General3-Slot4	Summoned: Muzzle of Mardu	1348	1	5
 General3-Slot5	Summoned: Muzzle of Mardu	1348	1	5
 General3-Slot6	Summoned: Muzzle of Mardu	1348	1	5
 General3-Slot7	Summoned: Sword of Runes	5319	1	5
 General3-Slot8	Summoned: Sword of Runes	5319	1	5
-General3-Slot9	Summoned: Black Bread	13078	8	5
-General3-Slot10	Summoned: Globe of Water	13079	8	5
+General3-Slot9	Summoned: Black Bread	13078	2	5
+General3-Slot10	Summoned: Globe of Water	13079	2	5
 General4	Medicine Bag	17901	1	8
-General4-Slot1	Empty	0	0	0
-General4-Slot2	Empty	0	0	0
-General4-Slot3	Empty	0	0	0
-General4-Slot4	Empty	0	0	0
-General4-Slot5	Empty	0	0	0
+General4-Slot1	Ivory	22504	1	5
+General4-Slot2	Topaz	10025	4	5
+General4-Slot3	Pearl	10024	3	5
+General4-Slot4	Flame Agate	10225	6	5
+General4-Slot5	Amber	10022	2	5
 General4-Slot6	Empty	0	0	0
 General4-Slot7	Empty	0	0	0
 General4-Slot8	Empty	0	0	0
@@ -79,7 +79,7 @@ General6-Slot7	Iron Ration	13005	20	5
 General6-Slot8	Water Flask	13006	20	5
 General7	Large Sewing Kit	17880	1	8
 General7-Slot1	Worker Sledgemallet	12863	1	5
-General7-Slot2	A Crude Stein	13355	1	5
+General7-Slot2	Empty	0	0	0
 General7-Slot3	Loam Encrusted Lined Shoes	1652	1	5
 General7-Slot4	Tooth of the Cobalt Scar	31602	1	5
 General7-Slot5	Book of Frost	10537	1	5
