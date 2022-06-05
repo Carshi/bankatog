@@ -5,7 +5,7 @@ Head	Empty	0	0	0
 Face	Crystal Spider Eyes	25282	1	5
 Ear	Black Sapphire Electrum Earring	14701	1	5
 Neck	Petrified Erudite Heart Amulet	10216	1	5
-Shoulders	Empty	0	0	0
+Shoulders	Mantle of Mirth	14713	1	5
 Arms	Empty	0	0	0
 Back	Loam Encrusted Cloak	1646	1	5
 Wrist	Supple Scale Armband	1618	1	5
@@ -22,70 +22,60 @@ Feet	ShadowBound Boots	3317	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
 General1	Medicine Bag	17901	1	8
-General1-Slot1	Ice Giant Toes	16540	1	5
-General1-Slot2	Ice Giant Toes	16540	1	5
-General1-Slot3	Ice Giant Toes	16540	1	5
-General1-Slot4	Ice Giant Toes	16540	1	5
-General1-Slot5	Ice Giant Toes	16540	1	5
-General1-Slot6	Ice Giant Toes	16540	1	5
-General1-Slot7	Ice Giant Toes	16540	1	5
-General1-Slot8	Ice Giant Toes	16540	1	5
+General1-Slot1	Black Pantherskin Tunic	24839	1	5
+General1-Slot2	Black Pantherskin Leggings	24846	1	5
+General1-Slot3	Tar goo strands	1703	1	5
+General1-Slot4	Black Pantherskin Gloves	24845	1	5
+General1-Slot5	Velium Fire Wedding Ring	30339	1	5
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
 General2	Medicine Bag	17901	1	8
-General2-Slot1	Bone Chips	13073	8	5
-General2-Slot2	Bone Chips	13073	20	5
-General2-Slot3	Bone Chips	13073	20	5
-General2-Slot4	Bone Chips	13073	20	5
-General2-Slot5	Bone Chips	13073	20	5
-General2-Slot6	Bone Chips	13073	16	5
-General2-Slot7	Bone Chips	13073	20	5
-General2-Slot8	Bone Chips	13073	20	5
-General3	Glowing Backpack	17306	1	10
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General3	Medicine Bag	17901	1	8
 General3-Slot1	Empty	0	0	0
-General3-Slot2	Summoned: Muzzle of Mardu	1348	1	5
+General3-Slot2	Empty	0	0	0
 General3-Slot3	Empty	0	0	0
-General3-Slot4	Summoned: Muzzle of Mardu	1348	1	5
-General3-Slot5	Summoned: Muzzle of Mardu	1348	1	5
-General3-Slot6	Summoned: Muzzle of Mardu	1348	1	5
-General3-Slot7	Summoned: Sword of Runes	5319	1	5
-General3-Slot8	Summoned: Sword of Runes	5319	1	5
-General3-Slot9	Summoned: Black Bread	13078	1	5
-General3-Slot10	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	10 Dose Blood of the Wolf	14534	1	5
+General3-Slot8	10 Dose Blood of the Wolf	14534	1	5
 General4	Medicine Bag	17901	1	8
-General4-Slot1	Ivory	22504	2	5
-General4-Slot2	Topaz	10025	4	5
-General4-Slot3	Pearl	10024	3	5
-General4-Slot4	Flame Agate	10225	6	5
-General4-Slot5	Amber	10022	2	5
-General4-Slot6	Ice Giant Toes	16540	1	5
-General4-Slot7	Ice Giant Toes	16540	1	5
-General4-Slot8	Ice Giant Toes	16540	1	5
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Bone Chips	13073	12	5
+General4-Slot3	Bone Chips	13073	20	5
+General4-Slot4	Bone Chips	13073	20	5
+General4-Slot5	Bone Chips	13073	20	5
+General4-Slot6	Bone Chips	13073	16	5
+General4-Slot7	Bone Chips	13073	20	5
+General4-Slot8	Bone Chips	13073	20	5
 General5	Medicine Bag	17901	1	8
-General5-Slot1	Ice Giant Toes	16540	1	5
+General5-Slot1	Empty	0	0	0
 General5-Slot2	Empty	0	0	0
-General5-Slot3	Empty	0	0	0
-General5-Slot4	Empty	0	0	0
-General5-Slot5	Empty	0	0	0
-General5-Slot6	Empty	0	0	0
-General5-Slot7	10 Dose Blood of the Wolf	14534	1	5
-General5-Slot8	10 Dose Blood of the Wolf	14534	1	5
-General6	Medicine Bag	17901	1	8
-General6-Slot1	Earthworm Munch	12611	3	5
-General6-Slot2	Water Flask	13006	4	5
-General6-Slot3	Iron Ration	13005	20	5
-General6-Slot4	Water Flask	13006	20	5
-General6-Slot5	Iron Ration	13005	20	5
-General6-Slot6	Water Flask	13006	20	5
-General6-Slot7	Iron Ration	13005	20	5
-General6-Slot8	Water Flask	13006	20	5
-General7	Large Sewing Kit	17880	1	8
-General7-Slot1	Worker Sledgemallet	12863	1	5
-General7-Slot2	Key to Charasis	2667	1	5
-General7-Slot3	Loam Encrusted Lined Shoes	1652	1	5
-General7-Slot4	Tooth of the Cobalt Scar	31602	1	5
-General7-Slot5	Book of Frost	10537	1	5
-General7-Slot6	Empty	0	0	0
-General7-Slot7	Hole Key	6379	1	5
-General7-Slot8	Bone Crafted Key	6378	1	5
+General5-Slot3	Iron Ration	13005	13	5
+General5-Slot4	Water Flask	13006	15	5
+General5-Slot5	Iron Ration	13005	20	5
+General5-Slot6	Water Flask	13006	20	5
+General5-Slot7	Iron Ration	13005	20	5
+General5-Slot8	Water Flask	13006	20	5
+General6	Large Sewing Kit	17880	1	8
+General6-Slot1	Worker Sledgemallet	12863	1	5
+General6-Slot2	Key to Charasis	2667	1	5
+General6-Slot3	Loam Encrusted Lined Shoes	1652	1	5
+General6-Slot4	Tooth of the Cobalt Scar	31602	1	5
+General6-Slot5	Book of Frost	10537	1	5
+General6-Slot6	Peridot	10028	2	5
+General6-Slot7	Hole Key	6379	1	5
+General6-Slot8	Bone Crafted Key	6378	1	5
+General7	Large Brick of Velium	22094	1	5
 General8	Journeyman's Boots	2300	1	5
 Held	Empty	0	0	0
 Bank1	Book of Dark Bindings	17501	1	10
@@ -158,7 +148,7 @@ Bank8-Slot1	Words of the Spectre	11856	2	5
 Bank8-Slot2	Empty	0	0	0
 Bank8-Slot3	Words of the Suffering	11851	4	5
 Bank8-Slot4	Empty	0	0	0
-Bank8-Slot5	Hardened Clay	20732	1	5
+Bank8-Slot5	Empty	0	0	0
 Bank8-Slot6	Apprentice Ring	20659	1	5
 Bank8-Slot7	Green Goblin Skin	22135	11	5
 Bank8-Slot8	Mt. Death Mineral Salts	16972	4	5
