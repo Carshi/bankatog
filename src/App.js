@@ -1,23 +1,50 @@
-import logo from './logo.svg';
 import './App.css';
+import SortableTbl from "react-sort-search-table";
 
 function App() {
+  const itemRegexp = new RegExp(/(?:General|Bank)\d-Slot\d{1,2}\s(.*)\s\d{3,6}\s(\d+)/g);
+  const bankData = [];
+  const files = require.context('./inventory-files', false, /\.txt$/)
+  files.keys().map(files).forEach(file => {
+    fetch(file)
+    .then(r => r.text())
+    .then(text => {
+      const matches = [...text.matchAll(itemRegexp)];
+      matches.forEach(x => {
+        const existingItem = bankData.find(item => item.name === x[1]);
+        if (existingItem) {
+          existingItem.count += parseInt(x[2]);
+        }
+        else {
+          bankData.push({
+            character: file.match(/media\/(.+?)\./)[1],
+            name: x[1],
+            count: parseInt(x[2])
+          });
+        }
+      });
+    });
+  });
+  
+  const columns = [
+    "character",
+    "name",
+    "count"
+  ];
+  const headings = [
+    "Character",
+    "Item Name",
+    "Quantity"
+  ]
+  const paging = false;
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <SortableTbl
+			tblData={bankData}
+      tHead={headings}
+      dKey={columns}
+      paging={paging}
+		/>
     </div>
   );
 }

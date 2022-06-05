@@ -1,0 +1,58 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Empty	0	0	0
+Face	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Empty	0	0	0
+Shoulders	Empty	0	0	0
+Arms	Empty	0	0	0
+Back	Empty	0	0	0
+Wrist	Empty	0	0	0
+Wrist	Empty	0	0	0
+Range	Empty	0	0	0
+Hands	Empty	0	0	0
+Primary	Green Jade Broadsword	5153	1	5
+Secondary	Empty	0	0	0
+Fingers	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Empty	0	0	0
+Legs	Empty	0	0	0
+Feet	Empty	0	0	0
+Waist	Empty	0	0	0
+Ammo	Empty	0	0	0
+General1	Medicine Bag	17901	1	8
+General1-Slot1	Woodsman's Staff	6635	1	5
+General1-Slot2	Springwood Club	6616	1	5
+General1-Slot3	Wraith Bone Hammer	6382	1	5
+General1-Slot4	Elemental Binder	28043	1	5
+General1-Slot5	Lost Staff of the Scorned	6680	1	5
+General1-Slot6	Sainy's Claw	7228	1	5
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
+General2	Empty	0	0	0
+General3	Empty	0	0	0
+General4	Empty	0	0	0
+General5	Empty	0	0	0
+General6	Empty	0	0	0
+General7	Empty	0	0	0
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0
