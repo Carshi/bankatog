@@ -26,8 +26,8 @@ General1-Slot1	Ivory	22504	1	5
 General1-Slot2	Steel Torque	2039	1	5
 General1-Slot3	Steel Torque	2039	1	5
 General1-Slot4	Fine Steel Rapier	7352	1	5
-General1-Slot5	Empty	0	0	0
-General1-Slot6	Empty	0	0	0
+General1-Slot5	Topaz	10025	1	5
+General1-Slot6	Ice Giant Toes	16540	1	5
 General1-Slot7	Empty	0	0	0
 General1-Slot8	Empty	0	0	0
 General2	Medicine Bag	17901	1	8
