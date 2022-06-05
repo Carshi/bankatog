@@ -60,7 +60,7 @@ General4-Slot8	Bone Chips	13073	20	5
 General5	Medicine Bag	17901	1	8
 General5-Slot1	Empty	0	0	0
 General5-Slot2	Empty	0	0	0
-General5-Slot3	Iron Ration	13005	14	5
+General5-Slot3	Iron Ration	13005	13	5
 General5-Slot4	Water Flask	13006	15	5
 General5-Slot5	Iron Ration	13005	20	5
 General5-Slot6	Water Flask	13006	20	5
@@ -75,7 +75,7 @@ General6-Slot5	Book of Frost	10537	1	5
 General6-Slot6	Peridot	10028	2	5
 General6-Slot7	Hole Key	6379	1	5
 General6-Slot8	Bone Crafted Key	6378	1	5
-General7	Empty	0	0	0
+General7	Large Brick of Velium	22094	1	5
 General8	Journeyman's Boots	2300	1	5
 Held	Empty	0	0	0
 Bank1	Book of Dark Bindings	17501	1	10
