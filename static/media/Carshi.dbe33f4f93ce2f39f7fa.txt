@@ -11,7 +11,7 @@ Back	Loam Encrusted Cloak	1646	1	5
 Wrist	Supple Scale Armband	1618	1	5
 Wrist	Bracelet of Cessation	12804	1	5
 Range	Empty	0	0	0
-Hands	ShadowBound Gloves	3318	1	5
+Hands	Spider Fur Gloves	25311	1	5
 Primary	Empty	0	0	0
 Secondary	A Crude Stein	13355	1	5
 Fingers	Velium Fire Wedding Ring	30339	1	5
@@ -27,9 +27,9 @@ General1-Slot2	Black Pantherskin Leggings	24846	1	5
 General1-Slot3	Tar goo strands	1703	1	5
 General1-Slot4	Black Pantherskin Gloves	24845	1	5
 General1-Slot5	Velium Fire Wedding Ring	30339	1	5
-General1-Slot6	Empty	0	0	0
-General1-Slot7	Empty	0	0	0
-General1-Slot8	Empty	0	0	0
+General1-Slot6	Small Brick of Velium	22093	1	5
+General1-Slot7	Crushed Emerald	25835	1	5
+General1-Slot8	Crystalline Silk	25306	1	5
 General2	Medicine Bag	17901	1	8
 General2-Slot1	Empty	0	0	0
 General2-Slot2	Empty	0	0	0
@@ -50,7 +50,7 @@ General3-Slot7	10 Dose Blood of the Wolf	14534	1	5
 General3-Slot8	10 Dose Blood of the Wolf	14534	1	5
 General4	Medicine Bag	17901	1	8
 General4-Slot1	Empty	0	0	0
-General4-Slot2	Bone Chips	13073	12	5
+General4-Slot2	Bone Chips	13073	8	5
 General4-Slot3	Bone Chips	13073	20	5
 General4-Slot4	Bone Chips	13073	20	5
 General4-Slot5	Bone Chips	13073	20	5
@@ -58,10 +58,10 @@ General4-Slot6	Bone Chips	13073	16	5
 General4-Slot7	Bone Chips	13073	20	5
 General4-Slot8	Bone Chips	13073	20	5
 General5	Medicine Bag	17901	1	8
-General5-Slot1	Empty	0	0	0
+General5-Slot1	ShadowBound Gloves	3318	1	5
 General5-Slot2	Empty	0	0	0
-General5-Slot3	Iron Ration	13005	13	5
-General5-Slot4	Water Flask	13006	15	5
+General5-Slot3	Iron Ration	13005	9	5
+General5-Slot4	Water Flask	13006	11	5
 General5-Slot5	Iron Ration	13005	20	5
 General5-Slot6	Water Flask	13006	20	5
 General5-Slot7	Iron Ration	13005	20	5
