@@ -18,18 +18,18 @@ Fingers	Velium Fire Wedding Ring	30339	1	5
 Fingers	Ring of the Frost Spiders	2685	1	5
 Chest	Robe of the Oracle	1354	1	5
 Legs	Empty	0	0	0
-Feet	ShadowBound Boots	3317	1	5
+Feet	Loam Encrusted Lined Shoes	1652	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
 General1	Medicine Bag	17901	1	8
-General1-Slot1	Black Pantherskin Tunic	24839	1	5
-General1-Slot2	Black Pantherskin Leggings	24846	1	5
-General1-Slot3	Tar goo strands	1703	1	5
-General1-Slot4	Black Pantherskin Gloves	24845	1	5
-General1-Slot5	Velium Fire Wedding Ring	30339	1	5
-General1-Slot6	Small Brick of Velium	22093	1	5
-General1-Slot7	Crushed Emerald	25835	1	5
-General1-Slot8	Crystalline Silk	25306	1	5
+General1-Slot1	Mug of Sea Foam	22547	2	5
+General1-Slot2	Fire Opal	10031	1	5
+General1-Slot3	Fire Emerald	10033	1	5
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
 General2	Medicine Bag	17901	1	8
 General2-Slot1	Empty	0	0	0
 General2-Slot2	Empty	0	0	0
@@ -43,115 +43,115 @@ General3	Medicine Bag	17901	1	8
 General3-Slot1	Empty	0	0	0
 General3-Slot2	Empty	0	0	0
 General3-Slot3	Empty	0	0	0
-General3-Slot4	Empty	0	0	0
+General3-Slot4	Peridot	10028	1	5
 General3-Slot5	Empty	0	0	0
 General3-Slot6	Empty	0	0	0
 General3-Slot7	10 Dose Blood of the Wolf	14534	1	5
 General3-Slot8	10 Dose Blood of the Wolf	14534	1	5
 General4	Medicine Bag	17901	1	8
 General4-Slot1	Empty	0	0	0
-General4-Slot2	Bone Chips	13073	8	5
-General4-Slot3	Bone Chips	13073	20	5
+General4-Slot2	Empty	0	0	0
+General4-Slot3	Bone Chips	13073	18	5
 General4-Slot4	Bone Chips	13073	20	5
 General4-Slot5	Bone Chips	13073	20	5
-General4-Slot6	Bone Chips	13073	16	5
+General4-Slot6	Bone Chips	13073	20	5
 General4-Slot7	Bone Chips	13073	20	5
 General4-Slot8	Bone Chips	13073	20	5
 General5	Medicine Bag	17901	1	8
-General5-Slot1	ShadowBound Gloves	3318	1	5
+General5-Slot1	Empty	0	0	0
 General5-Slot2	Empty	0	0	0
-General5-Slot3	Iron Ration	13005	9	5
-General5-Slot4	Water Flask	13006	11	5
-General5-Slot5	Iron Ration	13005	20	5
-General5-Slot6	Water Flask	13006	20	5
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Iron Ration	13005	16	5
+General5-Slot6	Water Flask	13006	18	5
 General5-Slot7	Iron Ration	13005	20	5
 General5-Slot8	Water Flask	13006	20	5
 General6	Large Sewing Kit	17880	1	8
-General6-Slot1	Worker Sledgemallet	12863	1	5
-General6-Slot2	Key to Charasis	2667	1	5
-General6-Slot3	Loam Encrusted Lined Shoes	1652	1	5
+General6-Slot1	Bone Crafted Key	6378	1	5
+General6-Slot2	Hole Key	6379	1	5
+General6-Slot3	Key to Charasis	2667	1	5
 General6-Slot4	Tooth of the Cobalt Scar	31602	1	5
-General6-Slot5	Book of Frost	10537	1	5
-General6-Slot6	Peridot	10028	2	5
-General6-Slot7	Hole Key	6379	1	5
-General6-Slot8	Bone Crafted Key	6378	1	5
-General7	Large Brick of Velium	22094	1	5
+General6-Slot5	Trakanon Idol	1810	1	5
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Book of Frost	10537	1	5
+General7	Worker Sledgemallet	12863	1	5
 General8	Journeyman's Boots	2300	1	5
 Held	Empty	0	0	0
 Bank1	Book of Dark Bindings	17501	1	10
-Bank1-Slot1	Crushed Diamonds	12945	1	5
-Bank1-Slot2	Words of Absorption	11820	5	5
-Bank1-Slot3	Strange Ochre Clay	12942	1	5
-Bank1-Slot4	Words of Acquisition (Beza)	11866	1	5
-Bank1-Slot5	Words of Allure	11829	3	5
-Bank1-Slot6	Words of Anthology	11822	4	5
-Bank1-Slot7	Words of Bidding	11857	1	5
-Bank1-Slot8	Words of Burnishing	11862	2	5
-Bank1-Slot9	Words of Cazic-Thule	16039	18	5
-Bank1-Slot10	Words of Cloudburst	11833	2	5
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
 Bank2	Large Sewing Kit	17880	1	8
-Bank2-Slot1	Words of Collection (Beza)	11858	4	5
-Bank2-Slot2	Words of Collection (Caza)	11864	2	5
-Bank2-Slot3	Words of Crippling Force	11870	4	5
-Bank2-Slot4	Words of Dark Paths	11850	2	5
-Bank2-Slot5	Symbol of Insanity	20648	1	5
-Bank2-Slot6	Words of Descrying	11852	2	5
-Bank2-Slot7	Words of Detachment	11835	2	5
-Bank2-Slot8	Words of Discernment	11823	3	5
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
 Bank3	Large Sewing Kit	17880	1	8
 Bank3-Slot1	Empty	0	0	0
-Bank3-Slot2	Words of Dissolution	11812	2	5
-Bank3-Slot3	Words of Duration	11845	6	5
-Bank3-Slot4	Words of Efficacy	11849	4	5
-Bank3-Slot5	Words of Endurance	11848	4	5
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
 Bank3-Slot6	Empty	0	0	0
-Bank3-Slot7	Words of Enlightenment	11821	1	5
-Bank3-Slot8	Words of Eradication	11810	1	5
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
 Bank4	Large Sewing Kit	17880	1	8
 Bank4-Slot1	Empty	0	0	0
-Bank4-Slot2	Words of Grappling	11867	2	5
-Bank4-Slot3	Words of Haunting	11836	1	5
-Bank4-Slot4	Words of Imitation	11811	2	5
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Empty	0	0	0
 Bank4-Slot5	Empty	0	0	0
-Bank4-Slot6	Words of Mistbreath	11834	5	5
-Bank4-Slot7	Words of Motion	11846	8	5
-Bank4-Slot8	Words of Neglect	11847	4	5
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
 Bank5	Large Sewing Kit	17880	1	8
-Bank5-Slot1	Words of Obligation	11863	1	5
-Bank5-Slot2	Words of Odus	11868	3	5
-Bank5-Slot3	Words of Parasitism	11842	3	5
-Bank5-Slot4	Words of Possession	11815	4	5
-Bank5-Slot5	Words of Projection	11855	6	5
-Bank5-Slot6	Words of Purification	11838	2	5
-Bank5-Slot7	Words of Quivering	11844	1	5
-Bank5-Slot8	Words of Radiance	11824	3	5
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Large Brick of Velium	22094	1	5
+Bank5-Slot6	Crystalline Silk	25306	1	5
+Bank5-Slot7	Small Brick of Velium	22093	1	5
+Bank5-Slot8	Empty	0	0	0
 Bank6	Large Sewing Kit	17880	1	8
 Bank6-Slot1	Empty	0	0	0
-Bank6-Slot2	Words of Refuge	11819	3	5
-Bank6-Slot3	Words of Requisition	11865	5	5
-Bank6-Slot4	Words of Reviviscence	11817	1	5
-Bank6-Slot5	Words of Resolve	11843	1	5
+Bank6-Slot2	Crushed Emerald	25835	1	5
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Empty	0	0	0
 Bank6-Slot6	Empty	0	0	0
-Bank6-Slot7	Words of Rupturing	11837	1	5
-Bank6-Slot8	Words of Seizure	11853	2	5
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
 Bank7	Large Sewing Kit	17880	1	8
-Bank7-Slot1	Empty	0	0	0
-Bank7-Slot2	Words of the Ethereal	11869	4	5
-Bank7-Slot3	Words of the Extinct	11825	3	5
-Bank7-Slot4	Words of the Incorporeal	11839	1	5
+Bank7-Slot1	Yun Shaman Powder	12944	1	5
+Bank7-Slot2	Strange Ochre Clay	12942	1	5
+Bank7-Slot3	Crushed Diamonds	12945	1	5
+Bank7-Slot4	Empty	0	0	0
 Bank7-Slot5	Empty	0	0	0
-Bank7-Slot6	Words of the Quickening	11826	1	5
-Bank7-Slot7	Words of the Sentient (Azia)	11818	2	5
-Bank7-Slot8	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	ShadowBound Gloves	3318	1	5
+Bank7-Slot8	ShadowBound Boots	3317	1	5
 Bank8	Large Sewing Kit	17880	1	8
-Bank8-Slot1	Words of the Spectre	11856	2	5
-Bank8-Slot2	Empty	0	0	0
-Bank8-Slot3	Words of the Suffering	11851	4	5
+Bank8-Slot1	Green Goblin Skin	22135	11	5
+Bank8-Slot2	Mt. Death Mineral Salts	16972	4	5
+Bank8-Slot3	Empty	0	0	0
 Bank8-Slot4	Empty	0	0	0
 Bank8-Slot5	Empty	0	0	0
-Bank8-Slot6	Apprentice Ring	20659	1	5
-Bank8-Slot7	Green Goblin Skin	22135	11	5
-Bank8-Slot8	Mt. Death Mineral Salts	16972	4	5
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Symbol of Insanity	20648	1	5
+Bank8-Slot8	Apprentice Ring	20659	1	5
 Bank9	Empty	0	0	0
 Bank10	Empty	0	0	0
 Bank11	Empty	0	0	0
