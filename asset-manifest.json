@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/bankatog/static/css/main.d44b0624.css",
-    "main.js": "/bankatog/static/js/main.60c344b6.js",
+    "main.js": "/bankatog/static/js/main.c87b8ae7.js",
     "static/js/787.84e71682.chunk.js": "/bankatog/static/js/787.84e71682.chunk.js",
     "static/media/Carshi.txt": "/bankatog/static/media/Carshi.dbe33f4f93ce2f39f7fa.txt",
-    "static/media/Wordsofwinds.txt": "/bankatog/static/media/Wordsofwinds.dbaca064a244bdfc941b.txt",
+    "static/media/Wordsofwind.txt": "/bankatog/static/media/Wordsofwind.dbaca064a244bdfc941b.txt",
     "static/media/Bankatog.txt": "/bankatog/static/media/Bankatog.5d547caa52b881ac1bee.txt",
     "index.html": "/bankatog/index.html",
     "main.d44b0624.css.map": "/bankatog/static/css/main.d44b0624.css.map",
-    "main.60c344b6.js.map": "/bankatog/static/js/main.60c344b6.js.map",
+    "main.c87b8ae7.js.map": "/bankatog/static/js/main.c87b8ae7.js.map",
     "787.84e71682.chunk.js.map": "/bankatog/static/js/787.84e71682.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d44b0624.css",
-    "static/js/main.60c344b6.js"
+    "static/js/main.c87b8ae7.js"
   ]
 }
