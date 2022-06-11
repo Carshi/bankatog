@@ -1,18 +1,18 @@
 Location	Name	ID	Count	Slots
 Charm	Empty	0	0	0
 Ear	Black Sapphire Electrum Earring	14701	1	5
-Head	Empty	0	0	0
+Head	Batfang Headband	10108	1	5
 Face	Crystal Spider Eyes	25282	1	5
 Ear	Black Sapphire Electrum Earring	14701	1	5
 Neck	Petrified Erudite Heart Amulet	10216	1	5
-Shoulders	Mantle of Mirth	14713	1	5
+Shoulders	Loam Encrusted Amice	1645	1	5
 Arms	Empty	0	0	0
 Back	Loam Encrusted Cloak	1646	1	5
 Wrist	Supple Scale Armband	1618	1	5
 Wrist	Bracelet of Cessation	12804	1	5
-Range	Empty	0	0	0
+Range	Iksar Hide Manual	5763	1	5
 Hands	Spider Fur Gloves	25311	1	5
-Primary	Empty	0	0	0
+Primary	Words of Darkness	10527	1	5
 Secondary	A Crude Stein	13355	1	5
 Fingers	Velium Fire Wedding Ring	30339	1	5
 Fingers	Ring of the Frost Spiders	2685	1	5
@@ -21,16 +21,16 @@ Legs	Empty	0	0	0
 Feet	Loam Encrusted Lined Shoes	1652	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
-General1	Medicine Bag	17901	1	8
-General1-Slot1	Mug of Sea Foam	22547	2	5
-General1-Slot2	Water Flask	13006	19	5
+General1	Shralok Pack	17401	1	8
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
 General1-Slot3	Empty	0	0	0
-General1-Slot4	Summoned: Muzzle of Mardu	1348	1	5
+General1-Slot4	Empty	0	0	0
 General1-Slot5	Empty	0	0	0
 General1-Slot6	Empty	0	0	0
 General1-Slot7	Empty	0	0	0
 General1-Slot8	Empty	0	0	0
-General2	Medicine Bag	17901	1	8
+General2	Shralok Pack	17401	1	8
 General2-Slot1	Empty	0	0	0
 General2-Slot2	Empty	0	0	0
 General2-Slot3	Empty	0	0	0
@@ -39,43 +39,43 @@ General2-Slot5	Empty	0	0	0
 General2-Slot6	Empty	0	0	0
 General2-Slot7	Empty	0	0	0
 General2-Slot8	Empty	0	0	0
-General3	Medicine Bag	17901	1	8
+General3	Shralok Pack	17401	1	8
 General3-Slot1	Empty	0	0	0
 General3-Slot2	Empty	0	0	0
 General3-Slot3	Empty	0	0	0
-General3-Slot4	Peridot	10028	1	5
+General3-Slot4	Empty	0	0	0
 General3-Slot5	Empty	0	0	0
 General3-Slot6	Empty	0	0	0
-General3-Slot7	10 Dose Blood of the Wolf	14534	1	5
-General3-Slot8	10 Dose Blood of the Wolf	14534	1	5
-General4	Medicine Bag	17901	1	8
-General4-Slot1	Empty	0	0	0
-General4-Slot2	Ring of the Ancients	12268	1	5
-General4-Slot3	Bone Chips	13073	16	5
-General4-Slot4	Bone Chips	13073	20	5
-General4-Slot5	Bone Chips	13073	20	5
-General4-Slot6	Bone Chips	13073	20	5
-General4-Slot7	Bone Chips	13073	20	5
-General4-Slot8	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General4	Empty	0	0	0
 General5	Medicine Bag	17901	1	8
-General5-Slot1	Iron Ration	13005	19	5
-General5-Slot2	Water Flask	13006	20	5
-General5-Slot3	Iron Ration	13005	20	5
-General5-Slot4	Water Flask	13006	20	5
-General5-Slot5	Iron Ration	13005	20	5
-General5-Slot6	Water Flask	13006	20	5
-General5-Slot7	Iron Ration	13005	20	5
-General5-Slot8	Water Flask	13006	11	5
-General6	Large Sewing Kit	17880	1	8
-General6-Slot1	Bone Crafted Key	6378	1	5
-General6-Slot2	Hole Key	6379	1	5
-General6-Slot3	Key to Charasis	2667	1	5
-General6-Slot4	Tooth of the Cobalt Scar	31602	1	5
-General6-Slot5	Trakanon Idol	1810	1	5
-General6-Slot6	Empty	0	0	0
-General6-Slot7	Empty	0	0	0
-General6-Slot8	Book of Frost	10537	1	5
-General7	Worker Sledgemallet	12863	1	5
+General5-Slot1	10 Dose Blood of the Wolf	14534	1	5
+General5-Slot2	10 Dose Blood of the Wolf	14534	1	5
+General5-Slot3	Arctic Wyvern Hide	28511	1	5
+General5-Slot4	Ring of Shadows	10357	1	5
+General5-Slot5	Ring of Shadows	10357	1	5
+General5-Slot6	Bone Chips	13073	8	5
+General5-Slot7	Bone Chips	13073	20	5
+General5-Slot8	Bone Chips	13073	20	5
+General6	Medicine Bag	17901	1	8
+General6-Slot1	Empty	0	0	0
+General6-Slot2	Empty	0	0	0
+General6-Slot3	Empty	0	0	0
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Earthworm Munch	12611	11	5
+General6-Slot6	Crushed Emerald	25835	1	5
+General6-Slot7	Earthworm Munch	12611	20	5
+General6-Slot8	Water Flask	13006	17	5
+General7	Large Sewing Kit	17880	1	8
+General7-Slot1	Bone Crafted Key	6378	1	5
+General7-Slot2	Key to Charasis	2667	1	5
+General7-Slot3	Tooth of the Cobalt Scar	31602	1	5
+General7-Slot4	Trakanon Idol	1810	1	5
+General7-Slot5	Hole Key	6379	1	5
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Phase Spider Blood	26028	1	5
+General7-Slot8	Worker Sledgemallet	12863	1	5
 General8	Journeyman's Boots	2300	1	5
 Held	Empty	0	0	0
 Bank1	Book of Dark Bindings	17501	1	10
@@ -90,7 +90,7 @@ Bank1-Slot8	Empty	0	0	0
 Bank1-Slot9	Empty	0	0	0
 Bank1-Slot10	Empty	0	0	0
 Bank2	Large Sewing Kit	17880	1	8
-Bank2-Slot1	Empty	0	0	0
+Bank2-Slot1	Spell: Reckoning	19212	1	5
 Bank2-Slot2	Empty	0	0	0
 Bank2-Slot3	Empty	0	0	0
 Bank2-Slot4	Empty	0	0	0
@@ -108,7 +108,7 @@ Bank3-Slot6	Empty	0	0	0
 Bank3-Slot7	Empty	0	0	0
 Bank3-Slot8	Empty	0	0	0
 Bank4	Large Sewing Kit	17880	1	8
-Bank4-Slot1	Empty	0	0	0
+Bank4-Slot1	Bronzewood Staff	1868	1	5
 Bank4-Slot2	Empty	0	0	0
 Bank4-Slot3	Empty	0	0	0
 Bank4-Slot4	Empty	0	0	0
@@ -117,9 +117,9 @@ Bank4-Slot6	Empty	0	0	0
 Bank4-Slot7	Empty	0	0	0
 Bank4-Slot8	Empty	0	0	0
 Bank5	Large Sewing Kit	17880	1	8
-Bank5-Slot1	Empty	0	0	0
+Bank5-Slot1	Werewolf Pelt	13714	1	5
 Bank5-Slot2	Empty	0	0	0
-Bank5-Slot3	Empty	0	0	0
+Bank5-Slot3	Mug of Sea Foam	22547	2	5
 Bank5-Slot4	Empty	0	0	0
 Bank5-Slot5	Large Brick of Velium	22094	1	5
 Bank5-Slot6	Crystalline Silk	25306	1	5
@@ -127,7 +127,7 @@ Bank5-Slot7	Small Brick of Velium	22093	1	5
 Bank5-Slot8	Empty	0	0	0
 Bank6	Large Sewing Kit	17880	1	8
 Bank6-Slot1	Empty	0	0	0
-Bank6-Slot2	Crushed Emerald	25835	1	5
+Bank6-Slot2	Empty	0	0	0
 Bank6-Slot3	Empty	0	0	0
 Bank6-Slot4	Empty	0	0	0
 Bank6-Slot5	Empty	0	0	0
