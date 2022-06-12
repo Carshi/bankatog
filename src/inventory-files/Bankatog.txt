@@ -12,7 +12,7 @@ Wrist	Empty	0	0	0
 Wrist	Empty	0	0	0
 Range	Empty	0	0	0
 Hands	Empty	0	0	0
-Primary	Green Jade Broadsword	5153	1	5
+Primary	Empty	0	0	0
 Secondary	Empty	0	0	0
 Fingers	Empty	0	0	0
 Fingers	Empty	0	0	0
@@ -28,14 +28,38 @@ General1-Slot3	Wraith Bone Hammer	6382	1	5
 General1-Slot4	Elemental Binder	28043	1	5
 General1-Slot5	Lost Staff of the Scorned	6680	1	5
 General1-Slot6	Sainy's Claw	7228	1	5
-General1-Slot7	Empty	0	0	0
-General1-Slot8	Empty	0	0	0
-General2	Empty	0	0	0
+General1-Slot7	Ice Giant Toes	16540	1	5
+General1-Slot8	Flawed Emerald	25821	1	5
+General2	Medicine Bag	17901	1	8
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
 General3	Empty	0	0	0
 General4	Empty	0	0	0
-General5	Empty	0	0	0
-General6	Empty	0	0	0
-General7	Empty	0	0	0
+General5	Medicine Bag	17901	1	8
+General5-Slot1	Chipped Onyx Sapphire	25827	1	5
+General5-Slot2	Imperfect Diamond	25828	1	5
+General5-Slot3	Flawed Topaz	25818	1	5
+General5-Slot4	Green Jade Broadsword	5153	1	5
+General5-Slot5	Ring of Shadows	10357	1	5
+General5-Slot6	Arctic Wyvern Hide	28511	1	5
+General5-Slot7	Spell: Reckoning	19212	1	5
+General5-Slot8	Empty	0	0	0
+General6	Medicine Bag	17901	1	8
+General6-Slot1	Empty	0	0	0
+General6-Slot2	Empty	0	0	0
+General6-Slot3	Empty	0	0	0
+General6-Slot4	Empty	0	0	0
+General6-Slot5	Empty	0	0	0
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Empty	0	0	0
+General7	Spell: Thrall of Bones	19299	1	5
 General8	Empty	0	0	0
 Held	Empty	0	0	0
 Bank1	Empty	0	0	0
