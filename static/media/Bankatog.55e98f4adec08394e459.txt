@@ -40,10 +40,10 @@ General2-Slot6	Empty	0	0	0
 General2-Slot7	Empty	0	0	0
 General2-Slot8	Empty	0	0	0
 General3	Empty	0	0	0
-General4	Empty	0	0	0
+General4	Imperfect Diamond	25828	1	5
 General5	Medicine Bag	17901	1	8
 General5-Slot1	Chipped Onyx Sapphire	25827	1	5
-General5-Slot2	Imperfect Diamond	25828	1	5
+General5-Slot2	Empty	0	0	0
 General5-Slot3	Flawed Topaz	25818	1	5
 General5-Slot4	Green Jade Broadsword	5153	1	5
 General5-Slot5	Ring of Shadows	10357	1	5
