@@ -29,7 +29,7 @@ General1-Slot4	Elemental Binder	28043	1	5
 General1-Slot5	Lost Staff of the Scorned	6680	1	5
 General1-Slot6	Sainy's Claw	7228	1	5
 General1-Slot7	Empty	0	0	0
-General1-Slot8	Flawed Emerald	25821	1	5
+General1-Slot8	Empty	0	0	0
 General2	Medicine Bag	17901	1	8
 General2-Slot1	Springwood Club	6616	1	5
 General2-Slot2	Springwood Club	6616	1	5
@@ -39,8 +39,24 @@ General2-Slot5	Empty	0	0	0
 General2-Slot6	Empty	0	0	0
 General2-Slot7	Empty	0	0	0
 General2-Slot8	Empty	0	0	0
-General3	Empty	0	0	0
-General4	Empty	0	0	0
+General3	Shralok Pack	17401	1	8
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General4	Shralok Pack	17401	1	8
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Empty	0	0	0
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Empty	0	0	0
+General4-Slot7	Empty	0	0	0
+General4-Slot8	Empty	0	0	0
 General5	Medicine Bag	17901	1	8
 General5-Slot1	Chipped Onyx Sapphire	25827	1	5
 General5-Slot2	Empty	0	0	0
@@ -59,8 +75,16 @@ General6-Slot5	Empty	0	0	0
 General6-Slot6	Empty	0	0	0
 General6-Slot7	Empty	0	0	0
 General6-Slot8	Empty	0	0	0
-General7	Empty	0	0	0
-General8	Empty	0	0	0
+General7	Shralok Pack	17401	1	8
+General7-Slot1	Empty	0	0	0
+General7-Slot2	Empty	0	0	0
+General7-Slot3	Empty	0	0	0
+General7-Slot4	Empty	0	0	0
+General7-Slot5	Empty	0	0	0
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Empty	0	0	0
+General8	A Crude Stein	13355	1	5
 Held	Empty	0	0	0
 Bank1	Empty	0	0	0
 Bank2	Empty	0	0	0
