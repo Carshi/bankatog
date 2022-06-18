@@ -23,7 +23,7 @@ Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Medicine Bag	17901	1	8
 General1-Slot1	Woodsman's Staff	6635	1	5
-General1-Slot2	Springwood Club	6616	1	5
+General1-Slot2	Wu's Quivering Staff	6651	1	5
 General1-Slot3	Wraith Bone Hammer	6382	1	5
 General1-Slot4	Elemental Binder	28043	1	5
 General1-Slot5	Lost Staff of the Scorned	6680	1	5
@@ -33,11 +33,11 @@ General1-Slot8	A Shovel	16545	1	5
 General2	Medicine Bag	17901	1	8
 General2-Slot1	Springwood Club	6616	1	5
 General2-Slot2	Springwood Club	6616	1	5
-General2-Slot3	Dragonhide Belt	25049	1	5
-General2-Slot4	Empty	0	0	0
+General2-Slot3	Springwood Club	6616	1	5
+General2-Slot4	Springwood Club	6616	1	5
 General2-Slot5	A Torch	16546	1	5
 General2-Slot6	Empty	0	0	0
-General2-Slot7	Empty	0	0	0
+General2-Slot7	Smoldering Brand	6692	1	5
 General2-Slot8	Empty	0	0	0
 General3	Shralok Pack	17401	1	8
 General3-Slot1	Empty	0	0	0
@@ -49,9 +49,9 @@ General3-Slot6	Empty	0	0	0
 General3-Slot7	Empty	0	0	0
 General3-Slot8	Empty	0	0	0
 General4	Shralok Pack	17401	1	8
-General4-Slot1	Empty	0	0	0
+General4-Slot1	Nebulous Emerald	20832	1	5
 General4-Slot2	Empty	0	0	0
-General4-Slot3	Empty	0	0	0
+General4-Slot3	Bottled Djinni	20981	1	5
 General4-Slot4	Empty	0	0	0
 General4-Slot5	Empty	0	0	0
 General4-Slot6	Empty	0	0	0
@@ -75,15 +75,7 @@ General6-Slot5	Empty	0	0	0
 General6-Slot6	Empty	0	0	0
 General6-Slot7	Empty	0	0	0
 General6-Slot8	Empty	0	0	0
-General7	Shralok Pack	17401	1	8
-General7-Slot1	Empty	0	0	0
-General7-Slot2	Empty	0	0	0
-General7-Slot3	Empty	0	0	0
-General7-Slot4	Empty	0	0	0
-General7-Slot5	Empty	0	0	0
-General7-Slot6	Empty	0	0	0
-General7-Slot7	Empty	0	0	0
-General7-Slot8	Empty	0	0	0
+General7	Empty	0	0	0
 General8	Empty	0	0	0
 Held	Empty	0	0	0
 Bank1	Empty	0	0	0
