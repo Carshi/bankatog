@@ -25,7 +25,7 @@ General1	Bag of Sewn Evil-Eye	17354	1	8
 General1-Slot1	Empty	0	0	0
 General1-Slot2	Empty	0	0	0
 General1-Slot3	Empty	0	0	0
-General1-Slot4	Empty	0	0	0
+General1-Slot4	Silver Disc	20938	1	5
 General1-Slot5	Empty	0	0	0
 General1-Slot6	Empty	0	0	0
 General1-Slot7	Empty	0	0	0
@@ -69,12 +69,12 @@ General5-Slot8	Empty	0	0	0
 General6	Shralok Pack	17401	1	8
 General6-Slot1	Peridot	10028	9	5
 General6-Slot2	Emerald	10029	1	5
-General6-Slot3	Ration	13007	13	5
-General6-Slot4	Bottle of Milk	13087	14	5
+General6-Slot3	Ration	13007	11	5
+General6-Slot4	Bottle of Milk	13087	12	5
 General6-Slot5	Ration	13007	20	5
 General6-Slot6	Bottle of Milk	13087	20	5
-General6-Slot7	Bone Chips	13073	18	5
-General6-Slot8	Bone Chips	13073	18	5
+General6-Slot7	Bone Chips	13073	16	5
+General6-Slot8	Bone Chips	13073	20	5
 General7	Shralok Pack	17401	1	8
 General7-Slot1	Bone Crafted Key	6378	1	5
 General7-Slot2	Worker Sledgemallet	12863	1	5
@@ -85,9 +85,9 @@ General7-Slot6	Hole Key	6379	1	5
 General7-Slot7	Empty	0	0	0
 General7-Slot8	Journeyman's Boots	2300	1	5
 General8	Shralok Pack	17401	1	8
-General8-Slot1	Empty	0	0	0
-General8-Slot2	Empty	0	0	0
-General8-Slot3	Empty	0	0	0
+General8-Slot1	Key of Swords	20911	1	5
+General8-Slot2	Key of the Misplaced	20912	1	5
+General8-Slot3	Key of Misfortune	20913	1	5
 General8-Slot4	Empty	0	0	0
 General8-Slot5	Empty	0	0	0
 General8-Slot6	Empty	0	0	0
