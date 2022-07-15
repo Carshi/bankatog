@@ -4,12 +4,12 @@ Ear	Black Sapphire Electrum Earring	14701	1	5
 Head	Loam Encrusted Cap	1641	1	5
 Face	Crystal Spider Eyes	25282	1	5
 Ear	Black Sapphire Electrum Earring	14701	1	5
-Neck	Petrified Erudite Heart Amulet	10216	1	5
+Neck	Black Sapphire Velium Necklace	30351	1	5
 Shoulders	Loam Encrusted Amice	1645	1	5
 Arms	Loam Encrusted Sleeves	1648	1	5
 Back	Loam Encrusted Cloak	1646	1	5
-Wrist	Bracelet of Cessation	12804	1	5
 Wrist	Supple Scale Armband	1618	1	5
+Wrist	Bracelet of Cessation	12804	1	5
 Range	Iksar Hide Manual	5763	1	5
 Hands	Spider Fur Gloves	25311	1	5
 Primary	Words of Darkness	10527	1	5
@@ -22,19 +22,19 @@ Feet	Loam Encrusted Lined Shoes	1652	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
 General1	Bag of Sewn Evil-Eye	17354	1	8
-General1-Slot1	Green Goblin Skin	22135	20	5
-General1-Slot2	Green Goblin Skin	22135	20	5
-General1-Slot3	Green Goblin Skin	22135	20	5
-General1-Slot4	Green Goblin Skin	22135	20	5
-General1-Slot5	Green Goblin Skin	22135	20	5
-General1-Slot6	Green Goblin Skin	22135	16	5
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Empty	0	0	0
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
 General1-Slot7	Empty	0	0	0
 General1-Slot8	Empty	0	0	0
 General2	Light Burlap Sack	17353	1	8
-General2-Slot1	Mt. Death Mineral Salts	16972	20	5
-General2-Slot2	Mt. Death Mineral Salts	16972	20	5
-General2-Slot3	Mt. Death Mineral Salts	16972	20	5
-General2-Slot4	Mt. Death Mineral Salts	16972	6	5
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
 General2-Slot5	Empty	0	0	0
 General2-Slot6	Empty	0	0	0
 General2-Slot7	Empty	0	0	0
@@ -95,7 +95,7 @@ Bank1-Slot5	Empty	0	0	0
 Bank1-Slot6	Nephrite	25816	3	5
 Bank1-Slot7	Crushed Jaundice Gem	25829	3	5
 Bank1-Slot8	Tattered Silk Turban	24982	1	5
-Bank1-Slot9	Stone of Morid	14720	1	5
+Bank1-Slot9	Empty	0	0	0
 Bank1-Slot10	Bronzewood Staff	1868	1	5
 Bank2	Deluxe Toolbox	17877	1	10
 Bank2-Slot1	Velium Diamond Wedding Ring	30353	1	5
@@ -104,8 +104,8 @@ Bank2-Slot3	Platinum Blue Diamond Tiara	30367	1	5
 Bank2-Slot4	Sorcerous Bowl	29207	1	5
 Bank2-Slot5	Velium Blue Diamond Bracelet	30299	1	5
 Bank2-Slot6	Velium Blue Diamond Bracelet	30299	1	5
-Bank2-Slot7	Empty	0	0	0
-Bank2-Slot8	Empty	0	0	0
+Bank2-Slot7	Blue Diamond Electrum Earring	30365	1	5
+Bank2-Slot8	Stone of Morid	14720	1	5
 Bank2-Slot9	Empty	0	0	0
 Bank2-Slot10	Empty	0	0	0
 Bank3	Deluxe Toolbox	17877	1	10
@@ -122,7 +122,7 @@ Bank3-Slot10	Corroded Plate Bracer	24932	1	5
 Bank4	Deluxe Toolbox	17877	1	10
 Bank4-Slot1	Empty	0	0	0
 Bank4-Slot2	Empty	0	0	0
-Bank4-Slot3	Mt. Death Mineral Salts	16972	10	5
+Bank4-Slot3	Empty	0	0	0
 Bank4-Slot4	Torch	13002	1	5
 Bank4-Slot5	Empty	0	0	0
 Bank4-Slot6	Empty	0	0	0
@@ -136,17 +136,17 @@ Bank5-Slot2	Glowing Black Pearl	20791	1	5
 Bank5-Slot3	Obsidian Amulet	20786	1	5
 Bank5-Slot4	Dragonhide Belt	25049	1	5
 Bank5-Slot5	Empty	0	0	0
-Bank5-Slot6	Empty	0	0	0
+Bank5-Slot6	Petrified Erudite Heart Amulet	10216	1	5
 Bank5-Slot7	Empty	0	0	0
 Bank5-Slot8	Empty	0	0	0
 Bank5-Slot9	Empty	0	0	0
 Bank5-Slot10	Empty	0	0	0
 Bank6	Deluxe Toolbox	17877	1	10
-Bank6-Slot1	Empty	0	0	0
-Bank6-Slot2	Empty	0	0	0
-Bank6-Slot3	Empty	0	0	0
-Bank6-Slot4	Empty	0	0	0
-Bank6-Slot5	Mt. Death Mineral Salts	16972	17	5
+Bank6-Slot1	Mt. Death Mineral Salts	16972	20	5
+Bank6-Slot2	Mt. Death Mineral Salts	16972	13	5
+Bank6-Slot3	Mt. Death Mineral Salts	16972	20	5
+Bank6-Slot4	Mt. Death Mineral Salts	16972	20	5
+Bank6-Slot5	Mt. Death Mineral Salts	16972	20	5
 Bank6-Slot6	Mt. Death Mineral Salts	16972	20	5
 Bank6-Slot7	Mt. Death Mineral Salts	16972	20	5
 Bank6-Slot8	Mt. Death Mineral Salts	16972	20	5
@@ -165,13 +165,13 @@ Bank7-Slot9	Circlet of Shadows	29400	1	5
 Bank7-Slot10	Key to Charasis	2667	1	5
 Bank8	Deluxe Toolbox	17877	1	10
 Bank8-Slot1	Empty	0	0	0
-Bank8-Slot2	Empty	0	0	0
-Bank8-Slot3	Empty	0	0	0
-Bank8-Slot4	Empty	0	0	0
-Bank8-Slot5	Empty	0	0	0
-Bank8-Slot6	Empty	0	0	0
-Bank8-Slot7	Empty	0	0	0
-Bank8-Slot8	Green Goblin Skin	22135	19	5
+Bank8-Slot2	Green Goblin Skin	22135	15	5
+Bank8-Slot3	Green Goblin Skin	22135	20	5
+Bank8-Slot4	Green Goblin Skin	22135	20	5
+Bank8-Slot5	Green Goblin Skin	22135	20	5
+Bank8-Slot6	Green Goblin Skin	22135	20	5
+Bank8-Slot7	Green Goblin Skin	22135	20	5
+Bank8-Slot8	Green Goblin Skin	22135	20	5
 Bank8-Slot9	Green Goblin Skin	22135	20	5
 Bank8-Slot10	Green Goblin Skin	22135	20	5
 Bank9	Empty	0	0	0
