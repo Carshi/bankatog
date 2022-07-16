@@ -24,9 +24,9 @@ Ammo	Empty	0	0	0
 General1	Bag of Sewn Evil-Eye	17354	1	8
 General1-Slot1	Green Goblin Skin	22135	20	5
 General1-Slot2	Green Goblin Skin	22135	20	5
-General1-Slot3	Green Goblin Skin	22135	10	5
+General1-Slot3	Green Goblin Skin	22135	18	5
 General1-Slot4	Goblin Forged Chainmail Gloves	3269	1	5
-General1-Slot5	Mt. Death Mineral Salts	16972	18	5
+General1-Slot5	Mt. Death Mineral Salts	16972	20	5
 General1-Slot6	Goblin Forged Chainmail Neckguard	3262	1	5
 General1-Slot7	Goblin Forged Chainmail Coat	3263	1	5
 General1-Slot8	Goblin Forged Chainmail Gloves	3269	1	5
@@ -42,23 +42,23 @@ General2-Slot8	Goblin Forged Chainmail Mantle	3264	1	5
 General3	Shralok Pack	17401	1	8
 General3-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
 General3-Slot2	Goblin Forged Chainmail Gloves	3269	1	5
-General3-Slot3	Rune of Presence	11749	1	5
+General3-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
 General3-Slot4	Goblin Forged Chainmail Neckguard	3262	1	5
 General3-Slot5	Goblin Forged Chainmail Cape	3265	1	5
 General3-Slot6	Goblin Forged Chainmail Coat	3263	1	5
 General3-Slot7	Goblin Forged Chainmail Neckguard	3262	1	5
-General3-Slot8	Empty	0	0	0
+General3-Slot8	Goblin Forged Chainmail Mantle	3264	1	5
 General4	Shralok Pack	17401	1	8
-General4-Slot1	Empty	0	0	0
-General4-Slot2	Empty	0	0	0
-General4-Slot3	Empty	0	0	0
-General4-Slot4	Empty	0	0	0
+General4-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
+General4-Slot2	Goblin Forged Chainmail Mantle	3264	1	5
+General4-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
+General4-Slot4	Goblin Forged Chainmail Cape	3265	1	5
 General4-Slot5	Empty	0	0	0
 General4-Slot6	Empty	0	0	0
 General4-Slot7	Empty	0	0	0
 General4-Slot8	Empty	0	0	0
 General5	Shralok Pack	17401	1	8
-General5-Slot1	Empty	0	0	0
+General5-Slot1	Rune of Presence	11749	1	5
 General5-Slot2	Empty	0	0	0
 General5-Slot3	Part of Tasarin's Grimoire Pg. 390	16080	1	5
 General5-Slot4	Part of Tasarin's Grimoire Pg. 390	16081	2	5
