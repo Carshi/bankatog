@@ -24,35 +24,35 @@ Ammo	Empty	0	0	0
 General1	Bag of Sewn Evil-Eye	17354	1	8
 General1-Slot1	Green Goblin Skin	22135	20	5
 General1-Slot2	Green Goblin Skin	22135	20	5
-General1-Slot3	Green Goblin Skin	22135	18	5
-General1-Slot4	Goblin Forged Chainmail Gloves	3269	1	5
+General1-Slot3	Green Goblin Skin	22135	20	5
+General1-Slot4	Green Goblin Skin	22135	5	5
 General1-Slot5	Mt. Death Mineral Salts	16972	20	5
-General1-Slot6	Goblin Forged Chainmail Neckguard	3262	1	5
-General1-Slot7	Goblin Forged Chainmail Coat	3263	1	5
-General1-Slot8	Goblin Forged Chainmail Gloves	3269	1	5
+General1-Slot6	Mt. Death Mineral Salts	16972	2	5
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
 General2	Light Burlap Sack	17353	1	8
-General2-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
-General2-Slot2	Goblin Forged Chainmail Mantle	3264	1	5
-General2-Slot3	Goblin Forged Chainmail Coat	3263	1	5
-General2-Slot4	Goblin Forged Chainmail Gloves	3269	1	5
-General2-Slot5	Goblin Forged Chainmail Cape	3265	1	5
-General2-Slot6	Goblin Forged Chainmail Neckguard	3262	1	5
-General2-Slot7	Goblin Forged Chainmail Cape	3265	1	5
-General2-Slot8	Goblin Forged Chainmail Mantle	3264	1	5
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
 General3	Shralok Pack	17401	1	8
-General3-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
-General3-Slot2	Goblin Forged Chainmail Gloves	3269	1	5
-General3-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
-General3-Slot4	Goblin Forged Chainmail Neckguard	3262	1	5
-General3-Slot5	Goblin Forged Chainmail Cape	3265	1	5
-General3-Slot6	Goblin Forged Chainmail Coat	3263	1	5
-General3-Slot7	Goblin Forged Chainmail Neckguard	3262	1	5
-General3-Slot8	Goblin Forged Chainmail Mantle	3264	1	5
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
 General4	Shralok Pack	17401	1	8
-General4-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
-General4-Slot2	Goblin Forged Chainmail Mantle	3264	1	5
-General4-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
-General4-Slot4	Goblin Forged Chainmail Cape	3265	1	5
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Empty	0	0	0
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
 General4-Slot5	Empty	0	0	0
 General4-Slot6	Empty	0	0	0
 General4-Slot7	Empty	0	0	0
@@ -65,21 +65,21 @@ General5-Slot4	Part of Tasarin's Grimoire Pg. 390	16081	2	5
 General5-Slot5	Velishoul's Tome Pg. 9	16083	1	5
 General5-Slot6	Words of the Sentient (Beza)	11831	2	5
 General5-Slot7	Velishoul's Tome Pg. 8	16082	2	5
-General5-Slot8	Opal	10030	1	5
+General5-Slot8	Empty	0	0	0
 General6	Shralok Pack	17401	1	8
-General6-Slot1	Words of Absorption	11820	3	5
+General6-Slot1	Words of Absorption	11820	4	5
 General6-Slot2	Words of Transcendence	11792	2	5
 General6-Slot3	Words of Recluse	11832	2	5
 General6-Slot4	Words of Detachment	11835	3	5
 General6-Slot5	Emerald	10029	13	5
 General6-Slot6	Words of Possession	11815	3	5
-General6-Slot7	Flawless Aquamarine	22505	2	5
-General6-Slot8	Black Pearl	10012	1	5
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Empty	0	0	0
 General7	Shralok Pack	17401	1	8
 General7-Slot1	Peridot	10028	20	5
 General7-Slot2	Worker Sledgemallet	12863	1	5
-General7-Slot3	Ration	13007	10	5
-General7-Slot4	Bottle of Milk	13087	10	5
+General7-Slot3	Ration	13007	9	5
+General7-Slot4	Bottle of Milk	13087	9	5
 General7-Slot5	Ration	13007	20	5
 General7-Slot6	Bottle of Milk	13087	20	5
 General7-Slot7	Bone Chips	13073	10	5
