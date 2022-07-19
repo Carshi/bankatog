@@ -28,7 +28,7 @@ General1-Slot3	Wraith Bone Hammer	6382	1	5
 General1-Slot4	Elemental Binder	28043	1	5
 General1-Slot5	Orc Fang Earring	30110	1	5
 General1-Slot6	Embroidered Black Cape	1401	1	5
-General1-Slot7	Empty	0	0	0
+General1-Slot7	Mudman Enforcer	6691	1	5
 General1-Slot8	Choker of Majdd	14735	1	5
 General2	Medicine Bag	17901	1	8
 General2-Slot1	Bracer of Vajeen	14712	1	5
@@ -66,7 +66,7 @@ General5-Slot5	Words of Detachment	11835	3	5
 General5-Slot6	Words of Possession	11815	3	5
 General5-Slot7	Burnished Wooden Stave	6353	1	5
 General5-Slot8	Words of Recluse	11832	2	5
-General6	Mudman Enforcer	6691	1	5
+General6	Empty	0	0	0
 General7	Stave of Shielding	6610	1	5
 General8	Adamantite Club	6604	1	5
 Held	Empty	0	0	0
