@@ -22,27 +22,27 @@ Feet	Loam Encrusted Lined Shoes	1652	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
 General1	Bag of Sewn Evil-Eye	17354	1	8
-General1-Slot1	Empty	0	0	0
-General1-Slot2	Empty	0	0	0
-General1-Slot3	Report to Skargus	6474	1	5
-General1-Slot4	Green Goblin Skin	22135	3	5
-General1-Slot5	Empty	0	0	0
-General1-Slot6	Mt. Death Mineral Salts	16972	1	5
-General1-Slot7	Empty	0	0	0
-General1-Slot8	Empty	0	0	0
+General1-Slot1	Ring of Shadows	10357	1	5
+General1-Slot2	Ring of Shadows	10357	1	5
+General1-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
+General1-Slot4	Goblin Forged Chainmail Mantle	3264	1	5
+General1-Slot5	Goblin Forged Chainmail Coat	3263	1	5
+General1-Slot6	Goblin Forged Chainmail Cape	3265	1	5
+General1-Slot7	Goblin Forged Chainmail Coat	3263	1	5
+General1-Slot8	Goblin Forged Chainmail Gloves	3269	1	5
 General2	Light Burlap Sack	17353	1	8
-General2-Slot1	Empty	0	0	0
-General2-Slot2	Empty	0	0	0
-General2-Slot3	Empty	0	0	0
-General2-Slot4	Empty	0	0	0
-General2-Slot5	Empty	0	0	0
-General2-Slot6	Empty	0	0	0
-General2-Slot7	Empty	0	0	0
-General2-Slot8	Empty	0	0	0
+General2-Slot1	Goblin Forged Chainmail Cape	3265	1	5
+General2-Slot2	Goblin Forged Chainmail Neckguard	3262	1	5
+General2-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
+General2-Slot4	Goblin Forged Chainmail Neckguard	3262	1	5
+General2-Slot5	Goblin Forged Chainmail Coat	3263	1	5
+General2-Slot6	Goblin Forged Chainmail Neckguard	3262	1	5
+General2-Slot7	Goblin Forged Chainmail Neckguard	3262	1	5
+General2-Slot8	Goblin Forged Chainmail Gloves	3269	1	5
 General3	Shralok Pack	17401	1	8
-General3-Slot1	Empty	0	0	0
-General3-Slot2	Empty	0	0	0
-General3-Slot3	Empty	0	0	0
+General3-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
+General3-Slot2	Goblin Forged Chainmail Cape	3265	1	5
+General3-Slot3	Goblin Forged Chainmail Neckguard	3262	1	5
 General3-Slot4	Empty	0	0	0
 General3-Slot5	Empty	0	0	0
 General3-Slot6	Empty	0	0	0
@@ -56,34 +56,34 @@ General4-Slot4	Empty	0	0	0
 General4-Slot5	Empty	0	0	0
 General4-Slot6	Empty	0	0	0
 General4-Slot7	Empty	0	0	0
-General4-Slot8	Bottle of Milk	13087	15	5
+General4-Slot8	Empty	0	0	0
 General5	Shralok Pack	17401	1	8
 General5-Slot1	Empty	0	0	0
 General5-Slot2	Worker Sledgemallet	12863	1	5
-General5-Slot3	Empty	0	0	0
-General5-Slot4	Empty	0	0	0
-General5-Slot5	Empty	0	0	0
-General5-Slot6	Empty	0	0	0
-General5-Slot7	Empty	0	0	0
-General5-Slot8	Empty	0	0	0
+General5-Slot3	Flawless Aquamarine	22505	1	5
+General5-Slot4	Black Pearl	10012	1	5
+General5-Slot5	Mt. Death Mineral Salts	16972	14	5
+General5-Slot6	Green Goblin Skin	22135	20	5
+General5-Slot7	Green Goblin Skin	22135	15	5
+General5-Slot8	Report to Skargus	6474	1	5
 General6	Shralok Pack	17401	1	8
-General6-Slot1	Empty	0	0	0
+General6-Slot1	Hole Key	6379	1	5
 General6-Slot2	Bone Crafted Key	6378	1	5
-General6-Slot3	Hole Key	6379	1	5
+General6-Slot3	Spell: Shalee`s Animation	15683	1	5
 General6-Slot4	Spell: Mircyl's Animation	15295	1	5
-General6-Slot5	Spell: Shalee`s Animation	15683	1	5
+General6-Slot5	Drake-hide Leggings	2343	1	5
 General6-Slot6	Spell: Kilan`s Animation	15682	1	5
 General6-Slot7	Robe of the Oracle	1354	1	5
 General6-Slot8	Braided Cinch Cord	1364	1	5
 General7	Shralok Pack	17401	1	8
-General7-Slot1	Peridot	10028	16	5
+General7-Slot1	Peridot	10028	14	5
 General7-Slot2	Empty	0	0	0
-General7-Slot3	Emerald	10029	14	5
+General7-Slot3	Emerald	10029	8	5
 General7-Slot4	Tooth of the Cobalt Scar	31602	1	5
-General7-Slot5	Ration	13007	1	5
+General7-Slot5	Bottle of Milk	13087	2	5
 General7-Slot6	Bottle of Milk	13087	20	5
-General7-Slot7	Muffin	13014	17	5
-General7-Slot8	Bone Chips	13073	20	5
+General7-Slot7	Muffin	13014	5	5
+General7-Slot8	Bone Chips	13073	14	5
 General8	Journeyman's Boots	2300	1	5
 Held	Empty	0	0	0
 Bank1	Deluxe Toolbox	17877	1	10
