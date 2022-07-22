@@ -1,0 +1,172 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Earring of Essence	14714	1	5
+Head	Black Pantherskin Skullcap	24836	1	5
+Face	Targishin's Bone Mask	99505	1	5
+Ear	Orc Fang Earring	30110	1	5
+Neck	Black Pantherskin Gorget	24838	1	5
+Shoulders	Black Pantherskin Shoulderpads	24840	1	5
+Arms	Black Pantherskin Sleeves	24843	1	5
+Back	Black Pantherskin Cloak	24841	1	5
+Wrist	Tar goo strands	1703	1	5
+Wrist	Tar goo strands	1703	1	5
+Range	Idol of the Thorned	14722	1	5
+Hands	Black Pantherskin Gloves	24845	1	5
+Primary	Adamantite Club	6604	1	5
+Secondary	Stave of Shielding	6610	1	5
+Fingers	Velium Fire Wedding Ring	30339	1	5
+Fingers	Velium Fire Wedding Ring	30339	1	5
+Chest	Black Pantherskin Tunic	24839	1	5
+Legs	Black Pantherskin Leggings	24846	1	5
+Feet	Footpads of the Tiger	6954	1	5
+Waist	Sash of the Dragonborn	1623	1	5
+Ammo	Empty	0	0	0
+General1	Shralok Pack	17401	1	8
+General1-Slot1	Green Jade Broadsword	5153	1	5
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Crushed Topaz	25832	2	5
+General1-Slot4	Crushed Onyx Sapphire	25841	1	5
+General1-Slot5	A Metal Pipe	12979	1	5
+General1-Slot6	Crushed Sea Sapphire	25839	1	5
+General1-Slot7	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot8	Imbued Fighters Staff	5162	1	5
+General2	Shralok Pack	17401	1	8
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Kunzar Cloak	1617	1	5
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Elder Spiritist's Vambraces	4573	1	5
+General2-Slot5	Master Wu's Trance Stick	6619	1	5
+General2-Slot6	Master Wu's Trance Stick	6619	1	5
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General3	Shralok Pack	17401	1	8
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Flayed Skin Sleeves	10804	1	5
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General4	Medicine Bag	17901	1	8
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Spell: Spirit of Scale	19238	1	5
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Empty	0	0	0
+General4-Slot7	Empty	0	0	0
+General4-Slot8	Empty	0	0	0
+General5	Large Soiled Bag	17404	1	10
+General5-Slot1	Bottle of Milk	13087	16	5
+General5-Slot2	Muffin	13014	12	5
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Ration	13007	20	5
+General5-Slot5	Bandages	13009	13	5
+General5-Slot6	Bandages	13009	20	5
+General5-Slot7	Bandages	13009	20	5
+General5-Slot8	Bandages	13009	20	5
+General5-Slot9	10 Dose Blood of the Wolf	14534	1	5
+General5-Slot10	Bandages	13009	20	5
+General6	Jacinth	10053	1	5
+General7	Empty	0	0	0
+General8	Journeyman's Boots	2300	1	5
+Held	Empty	0	0	0
+Bank1	Deluxe Toolbox	17877	1	10
+Bank1-Slot1	Silk Swatch	16482	20	5
+Bank1-Slot2	Silk Swatch	16482	20	5
+Bank1-Slot3	Silk Swatch	16482	20	5
+Bank1-Slot4	Silk Swatch	16482	20	5
+Bank1-Slot5	Silk Swatch	16482	20	5
+Bank1-Slot6	Silk Swatch	16482	20	5
+Bank1-Slot7	Silk Swatch	16482	11	5
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
+Bank2	Deluxe Toolbox	17877	1	10
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank2-Slot9	Empty	0	0	0
+Bank2-Slot10	Empty	0	0	0
+Bank3	Deluxe Toolbox	17877	1	10
+Bank3-Slot1	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot2	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot3	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot4	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot5	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot6	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot7	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot8	Empty	0	0	0
+Bank3-Slot9	Empty	0	0	0
+Bank3-Slot10	Empty	0	0	0
+Bank4	Deluxe Toolbox	17877	1	10
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank4-Slot9	Empty	0	0	0
+Bank4-Slot10	Empty	0	0	0
+Bank5	Deluxe Toolbox	17877	1	10
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank5-Slot9	Empty	0	0	0
+Bank5-Slot10	Empty	0	0	0
+Bank6	Deluxe Toolbox	17877	1	10
+Bank6-Slot1	Empty	0	0	0
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Empty	0	0	0
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank6-Slot9	Empty	0	0	0
+Bank6-Slot10	Empty	0	0	0
+Bank7	Deluxe Toolbox	17877	1	10
+Bank7-Slot1	Green Goblin Skin	22135	20	5
+Bank7-Slot2	Green Goblin Skin	22135	20	5
+Bank7-Slot3	Green Goblin Skin	22135	20	5
+Bank7-Slot4	Green Goblin Skin	22135	20	5
+Bank7-Slot5	Green Goblin Skin	22135	20	5
+Bank7-Slot6	Green Goblin Skin	22135	10	5
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank7-Slot9	Empty	0	0	0
+Bank7-Slot10	Empty	0	0	0
+Bank8	Deluxe Toolbox	17877	1	10
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank8-Slot9	Empty	0	0	0
+Bank8-Slot10	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0
