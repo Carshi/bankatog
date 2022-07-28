@@ -61,15 +61,16 @@ const getTableDataFromInventoryFiles = async() => {
     const currentCharacter = file.match(/media\/(.+?)\./)[1]
     const matches = [...text.matchAll(itemRegexp)];
     matches.forEach(x => {
+      const count = parseInt(x[2]);
       const existingItem = bankData.find(item => item.name === x[1] && item.character === currentCharacter);
       if (existingItem) {
-        existingItem.count += parseInt(x[2]);
+        existingItem.count += count;
       }
       else {
         bankData.push({
           character: currentCharacter,
           name: x[1],
-          count: parseInt(x[2])
+          count: count
         });
       }
     });
