@@ -60,7 +60,7 @@ const getTableDataFromInventoryFiles = async() => {
     const text = await f.text();
     const matches = [...text.matchAll(itemRegexp)];
     matches.forEach(x => {
-      const existingItem = bankData.find(item => item.name === x[1]);
+      const existingItem = bankData.find(item => item.name === x[1] && item.character === x[0]);
       if (existingItem) {
         existingItem.count += parseInt(x[2]);
       }
