@@ -58,15 +58,16 @@ const getTableDataFromInventoryFiles = async() => {
   for (const file of files) {
     const f = await fetch(file);
     const text = await f.text();
+    const currentCharacter = file.match(/media\/(.+?)\./)[1]
     const matches = [...text.matchAll(itemRegexp)];
     matches.forEach(x => {
-      const existingItem = bankData.find(item => item.name === x[1] && item.character === x[0]);
+      const existingItem = bankData.find(item => item.name === x[1] && item.character === currentCharacter);
       if (existingItem) {
         existingItem.count += parseInt(x[2]);
       }
       else {
         bankData.push({
-          character: file.match(/media\/(.+?)\./)[1],
+          character: currentCharacter,
           name: x[1],
           count: parseInt(x[2])
         });
