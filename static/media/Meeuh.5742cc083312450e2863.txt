@@ -1,9 +1,9 @@
 Location	Name	ID	Count	Slots
 Charm	Empty	0	0	0
-Ear	Earring of Essence	14714	1	5
+Ear	Orc Fang Earring	30110	1	5
 Head	Black Pantherskin Skullcap	24836	1	5
 Face	Targishin's Bone Mask	99505	1	5
-Ear	Orc Fang Earring	30110	1	5
+Ear	Earring of Essence	14714	1	5
 Neck	Black Pantherskin Gorget	24838	1	5
 Shoulders	Black Pantherskin Shoulderpads	24840	1	5
 Arms	Black Pantherskin Sleeves	24843	1	5
@@ -22,35 +22,35 @@ Feet	Footpads of the Tiger	6954	1	5
 Waist	Sash of the Dragonborn	1623	1	5
 Ammo	Empty	0	0	0
 General1	Shralok Pack	17401	1	8
-General1-Slot1	Green Jade Broadsword	5153	1	5
+General1-Slot1	Imbued Fighters Staff	5162	1	5
 General1-Slot2	Empty	0	0	0
-General1-Slot3	Crushed Topaz	25832	2	5
-General1-Slot4	Crushed Onyx Sapphire	25841	1	5
-General1-Slot5	A Metal Pipe	12979	1	5
-General1-Slot6	Crushed Sea Sapphire	25839	1	5
-General1-Slot7	Tooth of the Cobalt Scar	31602	1	5
-General1-Slot8	Imbued Fighters Staff	5162	1	5
+General1-Slot3	Empty	0	0	0
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
 General2	Shralok Pack	17401	1	8
 General2-Slot1	Empty	0	0	0
-General2-Slot2	Kunzar Cloak	1617	1	5
+General2-Slot2	Empty	0	0	0
 General2-Slot3	Empty	0	0	0
-General2-Slot4	Elder Spiritist's Vambraces	4573	1	5
-General2-Slot5	Master Wu's Trance Stick	6619	1	5
-General2-Slot6	Master Wu's Trance Stick	6619	1	5
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
 General2-Slot7	Empty	0	0	0
 General2-Slot8	Empty	0	0	0
 General3	Shralok Pack	17401	1	8
 General3-Slot1	Empty	0	0	0
 General3-Slot2	Empty	0	0	0
 General3-Slot3	Empty	0	0	0
-General3-Slot4	Flayed Skin Sleeves	10804	1	5
+General3-Slot4	Empty	0	0	0
 General3-Slot5	Empty	0	0	0
 General3-Slot6	Empty	0	0	0
 General3-Slot7	Empty	0	0	0
 General3-Slot8	Empty	0	0	0
 General4	Medicine Bag	17901	1	8
 General4-Slot1	Empty	0	0	0
-General4-Slot2	Spell: Spirit of Scale	19238	1	5
+General4-Slot2	Empty	0	0	0
 General4-Slot3	Empty	0	0	0
 General4-Slot4	Empty	0	0	0
 General4-Slot5	Empty	0	0	0
@@ -58,18 +58,18 @@ General4-Slot6	Empty	0	0	0
 General4-Slot7	Empty	0	0	0
 General4-Slot8	Empty	0	0	0
 General5	Large Soiled Bag	17404	1	10
-General5-Slot1	Bottle of Milk	13087	16	5
-General5-Slot2	Muffin	13014	12	5
-General5-Slot3	Empty	0	0	0
+General5-Slot1	Bottle of Milk	13087	8	5
+General5-Slot2	Muffin	13014	3	5
+General5-Slot3	Spell: Spirit of Scale	19238	1	5
 General5-Slot4	Ration	13007	20	5
-General5-Slot5	Bandages	13009	13	5
-General5-Slot6	Bandages	13009	20	5
-General5-Slot7	Bandages	13009	20	5
+General5-Slot5	Tooth of the Cobalt Scar	31602	1	5
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Bandages	13009	13	5
 General5-Slot8	Bandages	13009	20	5
 General5-Slot9	10 Dose Blood of the Wolf	14534	1	5
 General5-Slot10	Bandages	13009	20	5
-General6	Jacinth	10053	1	5
-General7	Empty	0	0	0
+General6	Shrunken Goblin Skull Earring	10580	1	5
+General7	Crushed Sea Sapphire	25839	1	5
 General8	Journeyman's Boots	2300	1	5
 Held	Empty	0	0	0
 Bank1	Deluxe Toolbox	17877	1	10
@@ -95,13 +95,13 @@ Bank2-Slot8	Empty	0	0	0
 Bank2-Slot9	Empty	0	0	0
 Bank2-Slot10	Empty	0	0	0
 Bank3	Deluxe Toolbox	17877	1	10
-Bank3-Slot1	Mt. Death Mineral Salts	16972	20	5
-Bank3-Slot2	Mt. Death Mineral Salts	16972	20	5
-Bank3-Slot3	Mt. Death Mineral Salts	16972	20	5
-Bank3-Slot4	Mt. Death Mineral Salts	16972	20	5
-Bank3-Slot5	Mt. Death Mineral Salts	16972	20	5
-Bank3-Slot6	Mt. Death Mineral Salts	16972	20	5
-Bank3-Slot7	Mt. Death Mineral Salts	16972	20	5
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
 Bank3-Slot8	Empty	0	0	0
 Bank3-Slot9	Empty	0	0	0
 Bank3-Slot10	Empty	0	0	0
@@ -150,14 +150,14 @@ Bank7-Slot8	Empty	0	0	0
 Bank7-Slot9	Empty	0	0	0
 Bank7-Slot10	Empty	0	0	0
 Bank8	Deluxe Toolbox	17877	1	10
-Bank8-Slot1	Empty	0	0	0
-Bank8-Slot2	Empty	0	0	0
-Bank8-Slot3	Empty	0	0	0
-Bank8-Slot4	Empty	0	0	0
-Bank8-Slot5	Empty	0	0	0
-Bank8-Slot6	Empty	0	0	0
-Bank8-Slot7	Empty	0	0	0
-Bank8-Slot8	Empty	0	0	0
+Bank8-Slot1	A Metal Pipe	12979	1	5
+Bank8-Slot2	A Metal Pipe	12980	1	5
+Bank8-Slot3	Elder Spiritist's Vambraces	4573	1	5
+Bank8-Slot4	Kunzar Cloak	1617	1	5
+Bank8-Slot5	Crushed Topaz	25832	2	5
+Bank8-Slot6	Crushed Onyx Sapphire	25841	1	5
+Bank8-Slot7	Master Wu's Trance Stick	6619	1	5
+Bank8-Slot8	Master Wu's Trance Stick	6619	1	5
 Bank8-Slot9	Empty	0	0	0
 Bank8-Slot10	Empty	0	0	0
 Bank9	Empty	0	0	0
