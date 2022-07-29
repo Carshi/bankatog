@@ -22,9 +22,9 @@ Feet	Loam Encrusted Lined Shoes	1652	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
 General1	Bag of Sewn Evil-Eye	17354	1	8
-General1-Slot1	Dragon Horn Ykesha	7219	1	5
-General1-Slot2	Empty	0	0	0
-General1-Slot3	Empty	0	0	0
+General1-Slot1	Goblin Forged Chainmail Neckguard	3262	1	5
+General1-Slot2	Flawless Aquamarine	22505	1	5
+General1-Slot3	Goblin Forged Chainmail Cape	3265	1	5
 General1-Slot4	Empty	0	0	0
 General1-Slot5	Empty	0	0	0
 General1-Slot6	Empty	0	0	0
@@ -56,35 +56,43 @@ General4-Slot4	Empty	0	0	0
 General4-Slot5	Empty	0	0	0
 General4-Slot6	Empty	0	0	0
 General4-Slot7	Empty	0	0	0
-General4-Slot8	Bottle of Milk	13087	19	5
+General4-Slot8	Empty	0	0	0
 General5	Shralok Pack	17401	1	8
 General5-Slot1	Empty	0	0	0
-General5-Slot2	Worker Sledgemallet	12863	1	5
-General5-Slot3	Spell: Shalee`s Animation	15683	1	5
-General5-Slot4	Spell: Mircyl's Animation	15295	1	5
-General5-Slot5	Drake-hide Leggings	2343	1	5
-General5-Slot6	Spell: Kilan`s Animation	15682	1	5
-General5-Slot7	Robe of the Oracle	1354	1	5
-General5-Slot8	Braided Cinch Cord	1364	1	5
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Empty	0	0	0
 General6	Shralok Pack	17401	1	8
-General6-Slot1	Peridot	10028	14	5
-General6-Slot2	Ring of Shadows	10357	1	5
-General6-Slot3	Emerald	10029	8	5
-General6-Slot4	Ring of Shadows	10357	1	5
-General6-Slot5	Ration	13007	12	5
-General6-Slot6	Bottle of Milk	13087	20	5
-General6-Slot7	Ration	13007	10	5
-General6-Slot8	Bone Chips	13073	13	5
+General6-Slot1	Empty	0	0	0
+General6-Slot2	Report to Skargus	6474	1	5
+General6-Slot3	Peridot	10028	13	5
+General6-Slot4	Bone Chips	13073	9	5
+General6-Slot5	Emerald	10029	11	5
+General6-Slot6	Bottle of Milk	13087	13	5
+General6-Slot7	Ration	13007	16	5
+General6-Slot8	Bottle of Milk	13087	20	5
 General7	Shralok Pack	17401	1	8
-General7-Slot1	Report to Skargus	6474	1	5
-General7-Slot2	Key to Charasis	2667	1	5
-General7-Slot3	Hole Key	6379	1	5
-General7-Slot4	Trakanon Idol	1810	1	5
+General7-Slot1	Empty	0	0	0
+General7-Slot2	Worker Sledgemallet	12863	1	5
+General7-Slot3	Dragon Horn Ykesha	7219	1	5
+General7-Slot4	Empty	0	0	0
 General7-Slot5	Tooth of the Cobalt Scar	31602	1	5
-General7-Slot6	Stein of Ulissa	6363	1	5
+General7-Slot6	Journeyman's Boots	2300	1	5
 General7-Slot7	Tiny Jade Inlaid Coffin	9962	1	5
-General7-Slot8	Bone Crafted Key	6378	1	5
-General8	Journeyman's Boots	2300	1	5
+General7-Slot8	Trakanon Idol	1810	1	5
+General8	Shralok Pack	17401	1	8
+General8-Slot1	Empty	0	0	0
+General8-Slot2	Empty	0	0	0
+General8-Slot3	Empty	0	0	0
+General8-Slot4	Empty	0	0	0
+General8-Slot5	Green Goblin Skin	22135	10	5
+General8-Slot6	Green Goblin Skin	22135	1	5
+General8-Slot7	Green Goblin Skin	22135	1	5
+General8-Slot8	Black Pearl	10012	2	5
 Held	Empty	0	0	0
 Bank1	Deluxe Toolbox	17877	1	10
 Bank1-Slot1	Empty	0	0	0
@@ -106,12 +114,12 @@ Bank2-Slot5	Velium Blue Diamond Bracelet	30299	1	5
 Bank2-Slot6	Velium Blue Diamond Bracelet	30299	1	5
 Bank2-Slot7	Blue Diamond Electrum Earring	30365	1	5
 Bank2-Slot8	Stone of Morid	14720	1	5
-Bank2-Slot9	Earring of Essence	14714	1	5
-Bank2-Slot10	Empty	0	0	0
+Bank2-Slot9	Ring of Shadows	10357	1	5
+Bank2-Slot10	Ring of Shadows	10357	1	5
 Bank3	Deluxe Toolbox	17877	1	10
-Bank3-Slot1	Empty	0	0	0
-Bank3-Slot2	Empty	0	0	0
-Bank3-Slot3	Empty	0	0	0
+Bank3-Slot1	Hole Key	6379	1	5
+Bank3-Slot2	Key to Charasis	2667	1	5
+Bank3-Slot3	Bone Crafted Key	6378	1	5
 Bank3-Slot4	Empty	0	0	0
 Bank3-Slot5	Empty	0	0	0
 Bank3-Slot6	Empty	0	0	0
@@ -142,21 +150,21 @@ Bank5-Slot8	Djinni Blood	20784	1	5
 Bank5-Slot9	Silver Disc	20938	1	5
 Bank5-Slot10	Spiroc Feathers	20782	1	5
 Bank6	Deluxe Toolbox	17877	1	10
-Bank6-Slot1	Empty	0	0	0
-Bank6-Slot2	Empty	0	0	0
-Bank6-Slot3	Empty	0	0	0
-Bank6-Slot4	Empty	0	0	0
-Bank6-Slot5	Empty	0	0	0
+Bank6-Slot1	Green Goblin Skin	22135	20	5
+Bank6-Slot2	Green Goblin Skin	22135	20	5
+Bank6-Slot3	Green Goblin Skin	22135	20	5
+Bank6-Slot4	Green Goblin Skin	22135	20	5
+Bank6-Slot5	Green Goblin Skin	22135	17	5
 Bank6-Slot6	Empty	0	0	0
 Bank6-Slot7	Empty	0	0	0
-Bank6-Slot8	Green Goblin Skin	22135	1	5
-Bank6-Slot9	Green Goblin Skin	22135	20	5
-Bank6-Slot10	Green Goblin Skin	22135	20	5
+Bank6-Slot8	Empty	0	0	0
+Bank6-Slot9	Empty	0	0	0
+Bank6-Slot10	Empty	0	0	0
 Bank7	Deluxe Toolbox	17877	1	10
 Bank7-Slot1	Doldigun's head	1463	1	5
 Bank7-Slot2	Royal Kromrif blood	1858	1	5
 Bank7-Slot3	Symbol of Insanity	20648	1	5
-Bank7-Slot4	Empty	0	0	0
+Bank7-Slot4	Stein of Ulissa	6363	1	5
 Bank7-Slot5	Empty	0	0	0
 Bank7-Slot6	Empty	0	0	0
 Bank7-Slot7	Empty	0	0	0
@@ -164,15 +172,15 @@ Bank7-Slot8	Empty	0	0	0
 Bank7-Slot9	Empty	0	0	0
 Bank7-Slot10	Empty	0	0	0
 Bank8	Deluxe Toolbox	17877	1	10
-Bank8-Slot1	Empty	0	0	0
-Bank8-Slot2	Empty	0	0	0
+Bank8-Slot1	Mt. Death Mineral Salts	16972	20	5
+Bank8-Slot2	Mt. Death Mineral Salts	16972	6	5
 Bank8-Slot3	Empty	0	0	0
 Bank8-Slot4	Empty	0	0	0
 Bank8-Slot5	Empty	0	0	0
 Bank8-Slot6	Empty	0	0	0
 Bank8-Slot7	Empty	0	0	0
 Bank8-Slot8	Empty	0	0	0
-Bank8-Slot9	Mt. Death Mineral Salts	16972	4	5
+Bank8-Slot9	Empty	0	0	0
 Bank8-Slot10	Empty	0	0	0
 Bank9	Empty	0	0	0
 Bank10	Empty	0	0	0
