@@ -22,7 +22,7 @@ Feet	Footpads of the Tiger	6954	1	5
 Waist	Sash of the Dragonborn	1623	1	5
 Ammo	Empty	0	0	0
 General1	Shralok Pack	17401	1	8
-General1-Slot1	Imbued Fighters Staff	5162	1	5
+General1-Slot1	Empty	0	0	0
 General1-Slot2	Empty	0	0	0
 General1-Slot3	Empty	0	0	0
 General1-Slot4	Empty	0	0	0
@@ -48,7 +48,7 @@ General3-Slot5	Empty	0	0	0
 General3-Slot6	Empty	0	0	0
 General3-Slot7	Empty	0	0	0
 General3-Slot8	Empty	0	0	0
-General4	Medicine Bag	17901	1	8
+General4	Backpack	17005	1	8
 General4-Slot1	Empty	0	0	0
 General4-Slot2	Empty	0	0	0
 General4-Slot3	Empty	0	0	0
@@ -57,19 +57,35 @@ General4-Slot5	Empty	0	0	0
 General4-Slot6	Empty	0	0	0
 General4-Slot7	Empty	0	0	0
 General4-Slot8	Empty	0	0	0
-General5	Large Soiled Bag	17404	1	10
-General5-Slot1	Bottle of Milk	13087	8	5
-General5-Slot2	Muffin	13014	3	5
-General5-Slot3	Spell: Spirit of Scale	19238	1	5
-General5-Slot4	Ration	13007	20	5
-General5-Slot5	Tooth of the Cobalt Scar	31602	1	5
+General5	Backpack	17005	1	8
+General5-Slot1	Empty	0	0	0
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
 General5-Slot6	Empty	0	0	0
-General5-Slot7	Bandages	13009	13	5
-General5-Slot8	Bandages	13009	20	5
-General5-Slot9	10 Dose Blood of the Wolf	14534	1	5
-General5-Slot10	Bandages	13009	20	5
-General6	Shrunken Goblin Skull Earring	10580	1	5
-General7	Crushed Sea Sapphire	25839	1	5
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Empty	0	0	0
+General6	Medicine Bag	17901	1	8
+General6-Slot1	Empty	0	0	0
+General6-Slot2	Bandages	13009	5	5
+General6-Slot3	Bandages	13009	20	5
+General6-Slot4	Bandages	13009	20	5
+General6-Slot5	Bandages	13009	20	5
+General6-Slot6	Bandages	13009	20	5
+General6-Slot7	Imbued Fighters Staff	5162	1	5
+General6-Slot8	Jade Chokidai Prod	7256	1	5
+General7	Large Soiled Bag	17404	1	10
+General7-Slot1	Hole Key	6379	1	5
+General7-Slot2	Ration	13007	9	5
+General7-Slot3	Bone Crafted Key	6378	1	5
+General7-Slot4	Shrunken Goblin Skull Earring	10580	1	5
+General7-Slot5	Tooth of the Cobalt Scar	31602	1	5
+General7-Slot6	Bandages	13009	20	5
+General7-Slot7	Bandages	13009	20	5
+General7-Slot8	Bandages	13009	20	5
+General7-Slot9	10 Dose Blood of the Wolf	14534	1	5
+General7-Slot10	Bandages	13009	20	5
 General8	Journeyman's Boots	2300	1	5
 Held	Empty	0	0	0
 Bank1	Deluxe Toolbox	17877	1	10
@@ -158,8 +174,8 @@ Bank8-Slot5	Crushed Topaz	25832	2	5
 Bank8-Slot6	Crushed Onyx Sapphire	25841	1	5
 Bank8-Slot7	Master Wu's Trance Stick	6619	1	5
 Bank8-Slot8	Master Wu's Trance Stick	6619	1	5
-Bank8-Slot9	Empty	0	0	0
-Bank8-Slot10	Empty	0	0	0
+Bank8-Slot9	Loam Encrusted Amice	1645	1	5
+Bank8-Slot10	Crushed Sea Sapphire	25839	1	5
 Bank9	Empty	0	0	0
 Bank10	Empty	0	0	0
 Bank11	Empty	0	0	0
