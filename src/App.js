@@ -23,7 +23,7 @@ function App() {
 }
 
 const getTableDataFromInventoryFiles = async() => {
-  const itemRegexp = new RegExp(/(?<location>General|Bank)\d-Slot\d{1,2}\s(?<name>.*)\s\d{3,6}\s(?<count>\d+)/g);
+  const itemRegexp = new RegExp(/(General|Bank)\d-Slot\d{1,2}\s(.*)\s\d{3,6}\s(\d+)/g);
   const bankData = [];
   const load = require.context('./inventory-files', false, /\.txt$/);
 
@@ -35,8 +35,8 @@ const getTableDataFromInventoryFiles = async() => {
     const matches = [...text.matchAll(itemRegexp)];
 
     matches.forEach(match => {
-      const count = parseInt(match.groups.count);
-      const currentItem = new Item(currentCharacter, match.groups.name, match.groups.location, count);
+      const count = parseInt(match[3]);
+      const currentItem = new Item(currentCharacter, match[2], match[1], count);
 
       const existingItem = bankData.find(item => item.equals(currentItem));
       if (existingItem) {

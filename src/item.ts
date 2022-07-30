@@ -7,7 +7,7 @@ class Item {
   constructor(character: string, name: string, location: string, count: number) {
     this.character = character;
     this.name = name;
-    this.location = location;
+    this.location = location === "Bank" ? location : "Inventory";
     this.count = count;
   }
 
