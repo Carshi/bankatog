@@ -22,27 +22,27 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Medicine Bag	17901	1	8
-General1-Slot1	Velishoul's Tome Pg. 9	16083	1	5
-General1-Slot2	Velishoul's Tome Pg. 8	16082	4	5
+General1-Slot1	Earring of Essence	14714	1	5
+General1-Slot2	Empty	0	0	0
 General1-Slot3	Wraith Bone Hammer	6382	1	5
 General1-Slot4	Elemental Binder	28043	1	5
-General1-Slot5	Orc Fang Earring	30110	1	5
+General1-Slot5	Empty	0	0	0
 General1-Slot6	Embroidered Black Cape	1401	1	5
 General1-Slot7	Mudman Enforcer	6691	1	5
 General1-Slot8	Choker of Majdd	14735	1	5
 General2	Medicine Bag	17901	1	8
-General2-Slot1	Bracer of Vajeen	14712	1	5
+General2-Slot1	Idol of the Thorned	14722	1	5
 General2-Slot2	Batfang Headband	10108	1	5
 General2-Slot3	Crushed Flame Opal	25837	3	5
 General2-Slot4	Book of the Rings	14718	1	5
-General2-Slot5	Flawed Topaz	25818	3	5
-General2-Slot6	Glove of Rallos Zek	11796	2	5
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
 General2-Slot7	Bottled Djinni	20981	1	5
 General2-Slot8	Nebulous Emerald	20832	1	5
 General3	Shralok Pack	17401	1	8
-General3-Slot1	ShadowBound Boots	3317	1	5
-General3-Slot2	ShadowBound Gloves	3318	1	5
-General3-Slot3	Rune of Disassociation	11750	2	5
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
 General3-Slot4	Jacinth	10053	1	5
 General3-Slot5	Shroud of Nature	14732	1	5
 General3-Slot6	Ring of the Frost Spiders	2685	1	5
@@ -51,24 +51,24 @@ General3-Slot8	Lambent Stone	10000	1	5
 General4	Shralok Pack	17401	1	8
 General4-Slot1	Jaundice Gem	25815	1	5
 General4-Slot2	Crushed Jaundice Gem	25829	3	5
-General4-Slot3	Chipped Onyx Sapphire	25827	1	5
-General4-Slot4	Flawed Topaz	25818	2	5
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Flawed Topaz	25818	3	5
 General4-Slot5	Nephrite	25816	5	5
 General4-Slot6	Flawed Emerald	25821	1	5
 General4-Slot7	Crushed Coral	25831	1	5
-General4-Slot8	Circlet of Shadows	29400	1	5
+General4-Slot8	Empty	0	0	0
 General5	Medicine Bag	17901	1	8
-General5-Slot1	Rune of Presence	11749	4	5
+General5-Slot1	Spell: Kilan`s Animation	15682	1	5
 General5-Slot2	Loam Encrusted Bracelet	1649	1	5
-General5-Slot3	Part of Tasarin's Grimoire Pg. 390	16080	5	5
-General5-Slot4	Part of Tasarin's Grimoire Pg. 390	16081	7	5
-General5-Slot5	Words of Detachment	11835	3	5
-General5-Slot6	Words of Possession	11815	3	5
+General5-Slot3	Spell: Mircyl's Animation	15295	1	5
+General5-Slot4	Drake-hide Leggings	2343	1	5
+General5-Slot5	Spell: Shalee`s Animation	15683	1	5
+General5-Slot6	Braided Cinch Cord	1364	1	5
 General5-Slot7	Burnished Wooden Stave	6353	1	5
-General5-Slot8	Words of Recluse	11832	2	5
-General6	Empty	0	0	0
-General7	Stave of Shielding	6610	1	5
-General8	Adamantite Club	6604	1	5
+General5-Slot8	Empty	0	0	0
+General6	Chipped Onyx Sapphire	25827	1	5
+General7	Empty	0	0	0
+General8	Empty	0	0	0
 Held	Empty	0	0	0
 Bank1	Empty	0	0	0
 Bank2	Empty	0	0	0
