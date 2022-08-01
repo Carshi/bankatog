@@ -25,13 +25,13 @@ General1	Bag of Sewn Evil-Eye	17354	1	8
 General1-Slot1	Opal	10030	1	5
 General1-Slot2	Rune of Infraction	11775	1	5
 General1-Slot3	Jasper	10020	1	5
-General1-Slot4	Salil's Writ Pg. 60	11882	1	5
+General1-Slot4	Empty	0	0	0
 General1-Slot5	Words of the Suffering	11851	2	5
 General1-Slot6	Piece of a medallion	19960	1	5
 General1-Slot7	Rune of Howling	11768	1	5
 General1-Slot8	Piece of a medallion	19959	1	5
 General2	Light Burlap Sack	17353	1	8
-General2-Slot1	Empty	0	0	0
+General2-Slot1	Salil's Writ Pg. 60	11882	1	5
 General2-Slot2	Empty	0	0	0
 General2-Slot3	Empty	0	0	0
 General2-Slot4	Empty	0	0	0
@@ -47,7 +47,7 @@ General3-Slot4	Empty	0	0	0
 General3-Slot5	Empty	0	0	0
 General3-Slot6	Empty	0	0	0
 General3-Slot7	Empty	0	0	0
-General3-Slot8	Empty	0	0	0
+General3-Slot8	Piece of a medallion	19962	1	5
 General4	Shralok Pack	17401	1	8
 General4-Slot1	Empty	0	0	0
 General4-Slot2	Empty	0	0	0
@@ -80,8 +80,8 @@ General7-Slot1	Tooth of the Cobalt Scar	31602	1	5
 General7-Slot2	Worker Sledgemallet	12863	1	5
 General7-Slot3	Empty	0	0	0
 General7-Slot4	Empty	0	0	0
-General7-Slot5	Water Flask	13006	18	5
-General7-Slot6	Iron Ration	13005	18	5
+General7-Slot5	Water Flask	13006	17	5
+General7-Slot6	Iron Ration	13005	17	5
 General7-Slot7	Tiny Jade Inlaid Coffin	9962	1	5
 General7-Slot8	Trakanon Idol	1810	1	5
 General8	Shralok Pack	17401	1	8
