@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/bankatog/static/css/main.1a8d7302.css",
-    "main.js": "/bankatog/static/js/main.06f48e35.js",
+    "main.js": "/bankatog/static/js/main.e191f67d.js",
     "static/js/787.84e71682.chunk.js": "/bankatog/static/js/787.84e71682.chunk.js",
     "static/media/Carshi.txt": "/bankatog/static/media/Carshi.98d913840011ebea5513.txt",
     "static/media/Meeuh.txt": "/bankatog/static/media/Meeuh.61143095ecc615d1fec3.txt",
     "static/media/Wordsofwind.txt": "/bankatog/static/media/Wordsofwind.c27453e775ad093b218a.txt",
-    "static/media/Bankatog.txt": "/bankatog/static/media/Bankatog.ea7ab27d9a50902517ec.txt",
+    "static/media/Bankatog.txt": "/bankatog/static/media/Bankatog.06fbe059cfab5d21b033.txt",
     "index.html": "/bankatog/index.html",
     "main.1a8d7302.css.map": "/bankatog/static/css/main.1a8d7302.css.map",
-    "main.06f48e35.js.map": "/bankatog/static/js/main.06f48e35.js.map",
+    "main.e191f67d.js.map": "/bankatog/static/js/main.e191f67d.js.map",
     "787.84e71682.chunk.js.map": "/bankatog/static/js/787.84e71682.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8d7302.css",
-    "static/js/main.06f48e35.js"
+    "static/js/main.e191f67d.js"
   ]
 }
