@@ -1,0 +1,128 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Empty	0	0	0
+Face	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Empty	0	0	0
+Shoulders	Empty	0	0	0
+Arms	Empty	0	0	0
+Back	Empty	0	0	0
+Wrist	Empty	0	0	0
+Wrist	Empty	0	0	0
+Range	Empty	0	0	0
+Hands	Empty	0	0	0
+Primary	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Empty	0	0	0
+Legs	Empty	0	0	0
+Feet	Empty	0	0	0
+Waist	Empty	0	0	0
+Ammo	Empty	0	0	0
+General1	Deluxe Toolbox	17877	1	10
+General1-Slot1	Dire Wolf-Hide Cloak	25019	1	5
+General1-Slot2	Silver Chitin Wristband	2747	1	5
+General1-Slot3	Empty	0	0	0
+General1-Slot4	Empty	0	0	0
+General1-Slot5	Spell: Malo	19291	1	5
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
+General1-Slot9	Empty	0	0	0
+General1-Slot10	Empty	0	0	0
+General2	Deluxe Toolbox	17877	1	10
+General2-Slot1	Crushed Onyx Sapphire	25841	1	5
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Jaundice Gem	25815	1	5
+General2-Slot4	Crushed Jaundice Gem	25829	3	5
+General2-Slot5	Chipped Onyx Sapphire	25827	1	5
+General2-Slot6	Flawed Topaz	25818	3	5
+General2-Slot7	Nephrite	25816	5	5
+General2-Slot8	Crushed Coral	25831	1	5
+General2-Slot9	Crushed Flame Opal	25837	3	5
+General2-Slot10	Empty	0	0	0
+General3	Deluxe Toolbox	17877	1	10
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General3-Slot9	Empty	0	0	0
+General3-Slot10	Empty	0	0	0
+General4	Shralok Pack	17401	1	8
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Empty	0	0	0
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Empty	0	0	0
+General4-Slot7	Empty	0	0	0
+General4-Slot8	Empty	0	0	0
+General5	Deluxe Toolbox	17877	1	10
+General5-Slot1	Empty	0	0	0
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Empty	0	0	0
+General5-Slot8	Empty	0	0	0
+General5-Slot9	Empty	0	0	0
+General5-Slot10	Empty	0	0	0
+General6	Deluxe Toolbox	17877	1	10
+General6-Slot1	Loam Encrusted Bracelet	1649	1	5
+General6-Slot2	Spell: Mircyl's Animation	15295	1	5
+General6-Slot3	Drake-hide Leggings	2343	1	5
+General6-Slot4	Spell: Kilan`s Animation	15682	1	5
+General6-Slot5	Braided Cinch Cord	1364	1	5
+General6-Slot6	Spell: Shalee`s Animation	15683	1	5
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Empty	0	0	0
+General6-Slot9	Elder Spiritist's Vambraces	4573	1	5
+General6-Slot10	Embroidered Black Cape	1401	1	5
+General7	Deluxe Toolbox	17877	1	10
+General7-Slot1	Empty	0	0	0
+General7-Slot2	Batfang Headband	10108	1	5
+General7-Slot3	Empty	0	0	0
+General7-Slot4	Book of the Rings	14718	1	5
+General7-Slot5	Shroud of Nature	14732	1	5
+General7-Slot6	Diamond	10037	1	5
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Jacinth	10053	1	5
+General7-Slot9	Empty	0	0	0
+General7-Slot10	Kunzar Cloak	1617	1	5
+General8	Deluxe Toolbox	17877	1	10
+General8-Slot1	Empty	0	0	0
+General8-Slot2	Empty	0	0	0
+General8-Slot3	Earring of Essence	14714	1	5
+General8-Slot4	Wraith Bone Hammer	6382	1	5
+General8-Slot5	Elemental Binder	28043	1	5
+General8-Slot6	Crushed Sea Sapphire	25839	1	5
+General8-Slot7	Mudman Enforcer	6691	1	5
+General8-Slot8	Ring of the Frost Spiders	2685	1	5
+General8-Slot9	Empty	0	0	0
+General8-Slot10	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0
