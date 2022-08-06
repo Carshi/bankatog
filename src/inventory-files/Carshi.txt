@@ -22,23 +22,23 @@ Feet	Loam Encrusted Lined Shoes	1652	1	5
 Waist	Loam Encrusted Sash	1647	1	5
 Ammo	Empty	0	0	0
 General1	Bag of Sewn Evil-Eye	17354	1	8
-General1-Slot1	Opal	10030	1	5
-General1-Slot2	Rune of Infraction	11775	1	5
-General1-Slot3	Jasper	10020	1	5
+General1-Slot1	Medallion of the Obulus	19953	1	5
+General1-Slot2	Medallion of the Jarsath	19954	1	5
+General1-Slot3	Medallion of the Kylong	19955	1	5
 General1-Slot4	Empty	0	0	0
-General1-Slot5	Words of the Suffering	11851	2	5
-General1-Slot6	Piece of a medallion	19960	1	5
-General1-Slot7	Rune of Howling	11768	1	5
-General1-Slot8	Piece of a medallion	19959	1	5
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
 General2	Light Burlap Sack	17353	1	8
-General2-Slot1	Salil's Writ Pg. 60	11882	1	5
+General2-Slot1	Empty	0	0	0
 General2-Slot2	Empty	0	0	0
 General2-Slot3	Empty	0	0	0
 General2-Slot4	Empty	0	0	0
 General2-Slot5	Empty	0	0	0
-General2-Slot6	Piece of a medallion	19957	1	5
+General2-Slot6	Empty	0	0	0
 General2-Slot7	Empty	0	0	0
-General2-Slot8	Piece of a medallion	19956	1	5
+General2-Slot8	Empty	0	0	0
 General3	Shralok Pack	17401	1	8
 General3-Slot1	Empty	0	0	0
 General3-Slot2	Empty	0	0	0
@@ -47,7 +47,7 @@ General3-Slot4	Empty	0	0	0
 General3-Slot5	Empty	0	0	0
 General3-Slot6	Empty	0	0	0
 General3-Slot7	Empty	0	0	0
-General3-Slot8	Piece of a medallion	19962	1	5
+General3-Slot8	Empty	0	0	0
 General4	Shralok Pack	17401	1	8
 General4-Slot1	Empty	0	0	0
 General4-Slot2	Empty	0	0	0
@@ -69,30 +69,30 @@ General5-Slot8	Empty	0	0	0
 General6	Shralok Pack	17401	1	8
 General6-Slot1	Empty	0	0	0
 General6-Slot2	Report to Skargus	6474	1	5
-General6-Slot3	Peridot	10028	13	5
-General6-Slot4	Bone Chips	13073	20	5
-General6-Slot5	Emerald	10029	14	5
+General6-Slot3	Peridot	10028	8	5
+General6-Slot4	Bone Chips	13073	17	5
+General6-Slot5	Emerald	10029	6	5
 General6-Slot6	Bone Chips	13073	20	5
 General6-Slot7	Empty	0	0	0
-General6-Slot8	Bone Chips	13073	19	5
+General6-Slot8	Bone Chips	13073	20	5
 General7	Shralok Pack	17401	1	8
-General7-Slot1	Tooth of the Cobalt Scar	31602	1	5
+General7-Slot1	Tiny Jade Inlaid Coffin	9962	1	5
 General7-Slot2	Worker Sledgemallet	12863	1	5
-General7-Slot3	Empty	0	0	0
-General7-Slot4	Empty	0	0	0
-General7-Slot5	Water Flask	13006	17	5
-General7-Slot6	Iron Ration	13005	17	5
-General7-Slot7	Tiny Jade Inlaid Coffin	9962	1	5
-General7-Slot8	Trakanon Idol	1810	1	5
+General7-Slot3	Trakanon Idol	1810	1	5
+General7-Slot4	Tooth of the Cobalt Scar	31602	1	5
+General7-Slot5	Journeyman's Boots	2300	1	5
+General7-Slot6	Earthworm Munch	12611	1	5
+General7-Slot7	Water Flask	13006	12	5
+General7-Slot8	Earthworm Munch	12611	20	5
 General8	Shralok Pack	17401	1	8
 General8-Slot1	Empty	0	0	0
 General8-Slot2	Empty	0	0	0
-General8-Slot3	Mt. Death Mineral Salts	16972	2	5
+General8-Slot3	Empty	0	0	0
 General8-Slot4	Empty	0	0	0
-General8-Slot5	Green Goblin Skin	22135	20	5
-General8-Slot6	Green Goblin Skin	22135	6	5
-General8-Slot7	Journeyman's Boots	2300	1	5
-General8-Slot8	Black Pearl	10012	2	5
+General8-Slot5	Empty	0	0	0
+General8-Slot6	Empty	0	0	0
+General8-Slot7	Empty	0	0	0
+General8-Slot8	Empty	0	0	0
 Held	Empty	0	0	0
 Bank1	Deluxe Toolbox	17877	1	10
 Bank1-Slot1	Empty	0	0	0
@@ -154,9 +154,9 @@ Bank6-Slot1	Green Goblin Skin	22135	20	5
 Bank6-Slot2	Green Goblin Skin	22135	20	5
 Bank6-Slot3	Green Goblin Skin	22135	20	5
 Bank6-Slot4	Green Goblin Skin	22135	20	5
-Bank6-Slot5	Green Goblin Skin	22135	17	5
-Bank6-Slot6	Empty	0	0	0
-Bank6-Slot7	Empty	0	0	0
+Bank6-Slot5	Green Goblin Skin	22135	20	5
+Bank6-Slot6	Green Goblin Skin	22135	20	5
+Bank6-Slot7	Green Goblin Skin	22135	3	5
 Bank6-Slot8	Empty	0	0	0
 Bank6-Slot9	Empty	0	0	0
 Bank6-Slot10	Empty	0	0	0
@@ -173,7 +173,7 @@ Bank7-Slot9	Empty	0	0	0
 Bank7-Slot10	Empty	0	0	0
 Bank8	Deluxe Toolbox	17877	1	10
 Bank8-Slot1	Mt. Death Mineral Salts	16972	20	5
-Bank8-Slot2	Mt. Death Mineral Salts	16972	6	5
+Bank8-Slot2	Mt. Death Mineral Salts	16972	8	5
 Bank8-Slot3	Empty	0	0	0
 Bank8-Slot4	Empty	0	0	0
 Bank8-Slot5	Empty	0	0	0
