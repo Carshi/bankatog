@@ -22,11 +22,11 @@ Feet	Empty	0	0	0
 Waist	Empty	0	0	0
 Ammo	Empty	0	0	0
 General1	Deluxe Toolbox	17877	1	10
-General1-Slot1	Dire Wolf-Hide Cloak	25019	1	5
-General1-Slot2	Silver Chitin Wristband	2747	1	5
+General1-Slot1	Spell: Levant	19303	1	5
+General1-Slot2	Empty	0	0	0
 General1-Slot3	Empty	0	0	0
 General1-Slot4	Empty	0	0	0
-General1-Slot5	Spell: Malo	19291	1	5
+General1-Slot5	Empty	0	0	0
 General1-Slot6	Empty	0	0	0
 General1-Slot7	Empty	0	0	0
 General1-Slot8	Empty	0	0	0
@@ -40,7 +40,7 @@ General2-Slot4	Crushed Jaundice Gem	25829	3	5
 General2-Slot5	Chipped Onyx Sapphire	25827	1	5
 General2-Slot6	Flawed Topaz	25818	3	5
 General2-Slot7	Nephrite	25816	5	5
-General2-Slot8	Crushed Coral	25831	1	5
+General2-Slot8	Crushed Sea Sapphire	25839	1	5
 General2-Slot9	Crushed Flame Opal	25837	3	5
 General2-Slot10	Empty	0	0	0
 General3	Deluxe Toolbox	17877	1	10
@@ -54,15 +54,7 @@ General3-Slot7	Empty	0	0	0
 General3-Slot8	Empty	0	0	0
 General3-Slot9	Empty	0	0	0
 General3-Slot10	Empty	0	0	0
-General4	Shralok Pack	17401	1	8
-General4-Slot1	Empty	0	0	0
-General4-Slot2	Empty	0	0	0
-General4-Slot3	Empty	0	0	0
-General4-Slot4	Empty	0	0	0
-General4-Slot5	Empty	0	0	0
-General4-Slot6	Empty	0	0	0
-General4-Slot7	Empty	0	0	0
-General4-Slot8	Empty	0	0	0
+General4	Empty	0	0	0
 General5	Deluxe Toolbox	17877	1	10
 General5-Slot1	Empty	0	0	0
 General5-Slot2	Empty	0	0	0
@@ -99,10 +91,10 @@ General7-Slot10	Kunzar Cloak	1617	1	5
 General8	Deluxe Toolbox	17877	1	10
 General8-Slot1	Empty	0	0	0
 General8-Slot2	Empty	0	0	0
-General8-Slot3	Earring of Essence	14714	1	5
+General8-Slot3	Empty	0	0	0
 General8-Slot4	Wraith Bone Hammer	6382	1	5
 General8-Slot5	Elemental Binder	28043	1	5
-General8-Slot6	Crushed Sea Sapphire	25839	1	5
+General8-Slot6	Empty	0	0	0
 General8-Slot7	Mudman Enforcer	6691	1	5
 General8-Slot8	Ring of the Frost Spiders	2685	1	5
 General8-Slot9	Empty	0	0	0
